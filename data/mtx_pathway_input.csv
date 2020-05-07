@@ -1,0 +1,808 @@
+pathway,bacteria,ab_value,sample_id
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_uniformis,0.00818277,CSM5FZ4M
+ CDP-diacylglycerol biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000947533,CSM5FZ4M
+ CDP-diacylglycerol biosynthesis I,g__Parabacteroides|s__Parabacteroides_distasonis,0.00062039,CSM5FZ4M
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_ovatus,0.000238931,CSM5FZ4M
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_uniformis,0.00818277,CSM5FZ4M
+ CDP-diacylglycerol biosynthesis II,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000947533,CSM5FZ4M
+ CDP-diacylglycerol biosynthesis II,g__Parabacteroides|s__Parabacteroides_distasonis,0.00062039,CSM5FZ4M
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_ovatus,0.000238931,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.00597643,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_putredinis,0.00521739,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.00432833,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_ovatus,0.00212026,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_onderdonkii,0.001926,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00119851,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Ruminococcus|s__Ruminococcus_bromii,0.00113074,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000873217,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_salyersiae,0.00066709,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Parabacteroides|s__Parabacteroides_distasonis,0.000616468,CSM5FZ4M
+ adenosine ribonucleotides de novo biosynthesis,g__Parabacteroides|s__Parabacteroides_johnsonii,0.000219011,CSM5FZ4M
+ glycolysis III (from glucose),g__Bacteroides|s__Bacteroides_ovatus,0.000325232,CSM5FZ4M
+ glycolysis IV (plant cytosol),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00202607,CSM5FZ4M
+ glycolysis IV (plant cytosol),g__Bacteroides|s__Bacteroides_ovatus,0.000453585,CSM5FZ4M
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.00689496,CSM5FZ4M
+ guanosine ribonucleotides de novo biosynthesis,g__Parabacteroides|s__Parabacteroides_distasonis,0.00124412,CSM5FZ4M
+ guanosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_putredinis,0.00106193,CSM5FZ4M
+ guanosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_onderdonkii,0.00105581,CSM5FZ4M
+ guanosine ribonucleotides de novo biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000547801,CSM5FZ4M
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_ovatus,0.000463448,CSM5FZ4M
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.000283826,CSM5FZ4M
+ methylerythritol phosphate pathway I,g__Alistipes|s__Alistipes_putredinis,0.00496833,CSM5FZ4M
+ methylerythritol phosphate pathway I,g__Bacteroides|s__Bacteroides_ovatus,0.000410432,CSM5FZ4M
+ GDP-mannose biosynthesis,g__Alistipes|s__Alistipes_onderdonkii,0.00238596,CSM5FZ4M
+ GDP-mannose biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.0015987,CSM5FZ4M
+ GDP-mannose biosynthesis,g__Bacteroides|s__Bacteroides_ovatus,0.000116334,CSM5FZ4M
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_uniformis,0.00593295,CSM5FZ4M
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_dorei,0.00273184,CSM5FZ4M
+ L-lysine biosynthesis III,g__Parabacteroides|s__Parabacteroides_distasonis,0.00105302,CSM5FZ4M
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_ovatus,0.00066464,CSM5FZ4M
+ L-lysine biosynthesis VI,g__Bacteroides|s__Bacteroides_uniformis,0.00111365,CSM5FZ4M
+ L-lysine biosynthesis VI,g__Bacteroides|s__Bacteroides_ovatus,0.000334209,CSM5FZ4M
+ L-lysine biosynthesis VI,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000321019,CSM5FZ4M
+ folate transformations II,g__Bacteroides|s__Bacteroides_uniformis,0.00587704,CSM5FZ4M
+ folate transformations II,g__Bacteroides|s__Bacteroides_ovatus,0.00183588,CSM5FZ4M
+ folate transformations II,g__Parabacteroides|s__Parabacteroides_distasonis,0.00125729,CSM5FZ4M
+ folate transformations II,g__Bacteroides|s__Bacteroides_dorei,0.00112111,CSM5FZ4M
+ Calvin-Benson-Bassham cycle,g__Ruminococcus|s__Ruminococcus_bromii,0.000573127,CSM5FZ4M
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Parabacteroides|s__Parabacteroides_distasonis,0.00585715,CSM5FZ4M
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_dorei,0.00297444,CSM5FZ4M
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Parabacteroides|s__Parabacteroides_johnsonii,0.000316448,CSM5FZ4M
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Bacteroides|s__Bacteroides_dorei,0.00638273,CSM5FZ4M
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Parabacteroides|s__Parabacteroides_distasonis,0.000968207,CSM5FZ4M
+ pentose phosphate pathway (non-oxidative branch),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00239954,CSM5FZ4M
+ pentose phosphate pathway (non-oxidative branch),g__Ruminococcus|s__Ruminococcus_bromii,0.00118374,CSM5FZ4M
+ N10-formyl-tetrahydrofolate biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.00430394,CSM5FZ4M
+ UMP biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.00117351,CSM5FZ4M
+ UMP biosynthesis,g__Parabacteroides|s__Parabacteroides_distasonis,0.000784699,CSM5FZ4M
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Alistipes|s__Alistipes_putredinis,0.00239212,CSM5FZ4M
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Bacteroides|s__Bacteroides_uniformis,0.00177953,CSM5FZ4M
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Alistipes|s__Alistipes_onderdonkii,0.000393352,CSM5FZ4M
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_uniformis,0.00127168,CSM5FZ4M
+ phosphopantothenate biosynthesis I,g__Alistipes|s__Alistipes_putredinis,0.00114568,CSM5FZ4M
+ phosphopantothenate biosynthesis I,g__Parabacteroides|s__Parabacteroides_distasonis,0.000964672,CSM5FZ4M
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_dorei,0.000943898,CSM5FZ4M
+ phosphopantothenate biosynthesis I,g__Parabacteroides|s__Parabacteroides_johnsonii,0.000359871,CSM5FZ4M
+ inosine-5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_ovatus,0.00169037,CSM5FZ4M
+ queuosine biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.0025516,CSM5FZ4M
+ queuosine biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.000860356,CSM5FZ4M
+ queuosine biosynthesis,g__Parabacteroides|s__Parabacteroides_distasonis,0.000300842,CSM5FZ4M
+ dTDP-L-rhamnose biosynthesis I,g__Bacteroides|s__Bacteroides_ovatus,0.00179422,CSM5FZ4M
+ dTDP-L-rhamnose biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000781838,CSM5FZ4M
+ inosine-5'-phosphate biosynthesis II,g__Bacteroides|s__Bacteroides_ovatus,0.00197467,CSM5FZ4M
+ inosine-5'-phosphate biosynthesis II,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00113582,CSM5FZ4M
+ gondoate biosynthesis (anaerobic),g__Bacteroides|s__Bacteroides_ovatus,0.00119169,CSM5FZ4M
+ gondoate biosynthesis (anaerobic),g__Bacteroides|s__Bacteroides_xylanisolvens,0.000157603,CSM5FZ4M
+ pyridoxal 5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_uniformis,0.00250885,CSM5FZ4M
+ pyridoxal 5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_ovatus,0.000595106,CSM5FZ4M
+ superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,g__Bacteroides|s__Bacteroides_uniformis,0.00177533,CSM5FZ4M
+ superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,g__Bacteroides|s__Bacteroides_ovatus,0.000950136,CSM5FZ4M
+ adenine and adenosine salvage III,g__Bacteroides|s__Bacteroides_ovatus,0.000783744,CSM5FZ4M
+ adenine and adenosine salvage III,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000573903,CSM5FZ4M
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Alistipes|s__Alistipes_putredinis,0.00472646,CSM5FZ4M
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Ruminococcus|s__Ruminococcus_bromii,0.000461513,CSM5FZ4M
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000211651,CSM5FZ4M
+ coenzyme A biosynthesis II (mammalian),g__Bacteroides|s__Bacteroides_uniformis,0.0013485,CSM5FZ4M
+ coenzyme A biosynthesis II (mammalian),g__Bacteroides|s__Bacteroides_dorei,0.00111447,CSM5FZ4M
+ coenzyme A biosynthesis II (mammalian),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000497808,CSM5FZ4M
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Alistipes|s__Alistipes_putredinis,0.00141676,CSM5FZ4M
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_uniformis,0.00118617,CSM5FZ4M
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_dorei,0.000434542,CSM5FZ4M
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Alistipes|s__Alistipes_onderdonkii,0.000346179,CSM5FZ4M
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Alistipes|s__Alistipes_putredinis,0.00415178,CSM5FZ4M
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Ruminococcus|s__Ruminococcus_bromii,0.000626227,CSM5FZ4M
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000216199,CSM5FZ4M
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Alistipes|s__Alistipes_putredinis,0.00415178,CSM5FZ4M
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Ruminococcus|s__Ruminococcus_bromii,0.000626227,CSM5FZ4M
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000216199,CSM5FZ4M
+ CMP-3-deoxy-D-manno-octulosonate biosynthesis I,g__Bacteroides|s__Bacteroides_ovatus,0.000584586,CSM5FZ4M
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Alistipes|s__Alistipes_putredinis,0.00131125,CSM5FZ4M
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_uniformis,0.00123733,CSM5FZ4M
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000555134,CSM5FZ4M
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_dorei,0.000363547,CSM5FZ4M
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Alistipes|s__Alistipes_onderdonkii,0.000320998,CSM5FZ4M
+ L-ornithine de novo  biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.00253167,CSM5FZ4M
+ L-ornithine de novo  biosynthesis,g__Bacteroides|s__Bacteroides_ovatus,0.00101035,CSM5FZ4M
+ L-isoleucine biosynthesis I (from threonine),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000326285,CSM5FZ4M
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_xylanisolvens,0.0011407,CSM5FZ4M
+ pyruvate fermentation to isobutanol (engineered),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000917867,CSM5FZ4M
+ pyruvate fermentation to isobutanol (engineered),g__Parabacteroides|s__Parabacteroides_distasonis,0.000763538,CSM5FZ4M
+ pyruvate fermentation to isobutanol (engineered),g__Ruminococcus|s__Ruminococcus_bromii,0.000677373,CSM5FZ4M
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_salyersiae,0.000593878,CSM5FZ4M
+ pyruvate fermentation to isobutanol (engineered),g__Parabacteroides|s__Parabacteroides_johnsonii,0.000255536,CSM5FZ4M
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.0011407,CSM5FZ4M
+ L-valine biosynthesis,g__Parabacteroides|s__Parabacteroides_distasonis,0.000763538,CSM5FZ4M
+ L-valine biosynthesis,g__Ruminococcus|s__Ruminococcus_bromii,0.000677373,CSM5FZ4M
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_salyersiae,0.000593878,CSM5FZ4M
+ L-valine biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000326285,CSM5FZ4M
+ L-valine biosynthesis,g__Parabacteroides|s__Parabacteroides_johnsonii,0.000255536,CSM5FZ4M
+ preQ0 biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.000618881,CSM5FZ4M
+ preQ0 biosynthesis,g__Parabacteroides|s__Parabacteroides_distasonis,0.000516994,CSM5FZ4M
+ preQ0 biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.000362067,CSM5FZ4M
+ purine ribonucleosides degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00188814,CSM5FZ4M
+ starch degradation V,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00167605,CSM5FZ4M
+ D-galacturonate degradation I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00199296,CSM5FZ4M
+ superpathway of L-lysine, L-threonine and L-methionine biosynthesis II,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000336773,CSM5FZ4M
+ D-fructuronate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00347046,CSM5FZ4M
+ 4-deoxy-L-threo-hex-4-enopyranuronate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00143965,CSM5FZ4M
+ S-adenosyl-L-methionine cycle I,g__Bacteroides|s__Bacteroides_uniformis,0.00152103,CSM5FZ4M
+ superpathway of L-threonine biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000407664,CSM5FZ4M
+ glutaryl-CoA degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00197443,CSM5FZ4M
+ superpathway of L-isoleucine biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000324065,CSM5FZ4M
+ superpathway of &beta;-D-glucuronide and D-glucuronate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00225405,CSM5FZ4M
+ guanosine nucleotides degradation III,g__Parabacteroides|s__Parabacteroides_johnsonii,0.000208882,CSM5FZ4M
+ superpathway of L-serine and glycine biosynthesis I,g__Ruminococcus|s__Ruminococcus_bromii,0.000650809,CSM5FZ4M
+ superpathway of L-serine and glycine biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000316369,CSM5FZ4M
+ sucrose degradation III (sucrose invertase),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00202679,CSM5FZ4M
+ superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000518726,CSM5FZ4M
+ stachyose degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00017888,CSM5FZ4M
+ galactose degradation I (Leloir pathway),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00036514,CSM5FZ4M
+ D-galactose degradation V (Leloir pathway),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00036514,CSM5FZ4M
+ superpathway of hexuronide and hexuronate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00101689,CSM5FZ4M
+ NAD biosynthesis I (from aspartate),g__Ruminococcus|s__Ruminococcus_bromii,0.000281796,CSM5FZ4M
+ L-rhamnose degradation I,g__Bacteroides|s__Bacteroides_ovatus,0.000204924,CSM5FZ4M
+ superpathway of branched amino acid biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00027255,CSM5FZ4M
+ thiamin formation from pyrithiamine and oxythiamine (yeast),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000248552,CSM5FZ4M
+ L-isoleucine biosynthesis III,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000252222,CSM5FZ4M
+ glycolysis IV (plant cytosol),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00329585,CSM5MCUO
+ glycolysis IV (plant cytosol),g__Alistipes|s__Alistipes_shahii,0.000243943,CSM5MCUO
+ glycolysis IV (plant cytosol),g__Bacteroides|s__Bacteroides_caccae,0.000156601,CSM5MCUO
+ glycolysis IV (plant cytosol),g__Bacteroides|s__Bacteroides_ovatus,0.000100041,CSM5MCUO
+ glycolysis IV (plant cytosol),g__Holdemania|s__Holdemania_filiformis,9.9963e-05,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_putredinis,0.0036945,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.00365583,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00167262,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_stercoris,0.00105153,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.00101363,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_plebeius,0.000989322,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.000909487,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000772276,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_caccae,0.000660174,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_onderdonkii,0.000405968,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Eubacterium|s__Eubacterium_eligens,0.000396877,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.000368065,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Paraprevotella|s__Paraprevotella_clara,0.000332094,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.000324821,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_salyersiae,0.000284561,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Eubacterium|s__Eubacterium_rectale,0.00021838,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Paraprevotella|s__Paraprevotella_xylaniphila,0.000200249,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Barnesiella|s__Barnesiella_intestinihominis,0.000199831,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_ovatus,0.000193874,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_shahii,0.000154069,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_fragilis,0.00013727,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_5_1_63FAA,0.000100201,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,9.77093e-05,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Holdemania|s__Holdemania_filiformis,7.02794e-05,CSM5MCUO
+ glutaryl-CoA degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00109346,CSM5MCUO
+ superpathway of adenosine nucleotides de novo biosynthesis I,g__Bacteroides|s__Bacteroides_vulgatus,0.00122881,CSM5MCUO
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_vulgatus,0.00107135,CSM5MCUO
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_stercoris,0.000659601,CSM5MCUO
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_uniformis,0.000642112,CSM5MCUO
+ L-lysine biosynthesis III,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00032998,CSM5MCUO
+ L-lysine biosynthesis III,g__Paraprevotella|s__Paraprevotella_clara,0.000294484,CSM5MCUO
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_dorei,0.000244047,CSM5MCUO
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_plebeius,0.000145925,CSM5MCUO
+ superpathway of adenosine nucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_vulgatus,0.000899007,CSM5MCUO
+ Calvin-Benson-Bassham cycle,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00112996,CSM5MCUO
+ Calvin-Benson-Bassham cycle,g__Odoribacter|s__Odoribacter_splanchnicus,0.000386186,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.00268657,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00215107,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.00188912,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_putredinis,0.00105534,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000633229,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Paraprevotella|s__Paraprevotella_clara,0.000413653,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_caccae,0.000356208,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.000274528,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Alistipes|s__Alistipes_shahii,0.000147186,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_ovatus,6.50601e-05,CSM5MCUO
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_dorei,3.04073e-05,CSM5MCUO
+ gondoate biosynthesis (anaerobic),g__Bacteroides|s__Bacteroides_stercoris,0.000948681,CSM5MCUO
+ gondoate biosynthesis (anaerobic),g__Bacteroides|s__Bacteroides_caccae,0.000383672,CSM5MCUO
+ gondoate biosynthesis (anaerobic),g__Bacteroides|s__Bacteroides_ovatus,0.000364509,CSM5MCUO
+ methylerythritol phosphate pathway I,g__Alistipes|s__Alistipes_putredinis,0.00349719,CSM5MCUO
+ methylerythritol phosphate pathway I,g__Parasutterella|s__Parasutterella_excrementihominis,0.000498914,CSM5MCUO
+ methylerythritol phosphate pathway I,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000285911,CSM5MCUO
+ methylerythritol phosphate pathway I,g__Paraprevotella|s__Paraprevotella_clara,0.000244818,CSM5MCUO
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Bacteroides|s__Bacteroides_vulgatus,0.00229096,CSM5MCUO
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000786158,CSM5MCUO
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Parasutterella|s__Parasutterella_excrementihominis,0.000735379,CSM5MCUO
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Bacteroides|s__Bacteroides_dorei,3.79763e-05,CSM5MCUO
+ superpathway of pyrimidine nucleobases salvage,g__Parasutterella|s__Parasutterella_excrementihominis,0.00320544,CSM5MCUO
+ superpathway of pyrimidine nucleobases salvage,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00305766,CSM5MCUO
+ superpathway of guanosine nucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_vulgatus,0.000900741,CSM5MCUO
+ superpathway of guanosine nucleotides de novo biosynthesis II,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000632948,CSM5MCUO
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_uniformis,0.00124144,CSM5MCUO
+ CDP-diacylglycerol biosynthesis II,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000976741,CSM5MCUO
+ CDP-diacylglycerol biosynthesis II,g__Roseburia|s__Roseburia_intestinalis,0.000473489,CSM5MCUO
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_stercoris,0.000449577,CSM5MCUO
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_salyersiae,0.000110388,CSM5MCUO
+ CDP-diacylglycerol biosynthesis II,g__Paraprevotella|s__Paraprevotella_clara,0.000109493,CSM5MCUO
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_plebeius,0.000108039,CSM5MCUO
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_caccae,4.85842e-05,CSM5MCUO
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_uniformis,0.00124144,CSM5MCUO
+ CDP-diacylglycerol biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000976741,CSM5MCUO
+ CDP-diacylglycerol biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.000473489,CSM5MCUO
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_stercoris,0.000449577,CSM5MCUO
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_salyersiae,0.000110388,CSM5MCUO
+ CDP-diacylglycerol biosynthesis I,g__Paraprevotella|s__Paraprevotella_clara,0.000109493,CSM5MCUO
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_plebeius,0.000108039,CSM5MCUO
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_caccae,4.85842e-05,CSM5MCUO
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_vulgatus,0.000489207,CSM5MCUO
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000447934,CSM5MCUO
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Parasutterella|s__Parasutterella_excrementihominis,0.000444568,CSM5MCUO
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_dorei,7.55912e-05,CSM5MCUO
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Holdemania|s__Holdemania_filiformis,2.5025e-05,CSM5MCUO
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_vulgatus,0.000489207,CSM5MCUO
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000447934,CSM5MCUO
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Parasutterella|s__Parasutterella_excrementihominis,0.000444568,CSM5MCUO
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_dorei,7.55912e-05,CSM5MCUO
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Holdemania|s__Holdemania_filiformis,2.5025e-05,CSM5MCUO
+ L-lysine biosynthesis VI,g__Bacteroides|s__Bacteroides_vulgatus,0.000713854,CSM5MCUO
+ L-lysine biosynthesis VI,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.0003826,CSM5MCUO
+ L-lysine biosynthesis VI,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000259134,CSM5MCUO
+ L-lysine biosynthesis VI,g__Bacteroides|s__Bacteroides_uniformis,0.000172741,CSM5MCUO
+ L-lysine biosynthesis VI,g__Bacteroides|s__Bacteroides_stercoris,0.000157894,CSM5MCUO
+ L-lysine biosynthesis VI,g__Bacteroides|s__Bacteroides_plebeius,0.000156823,CSM5MCUO
+ L-lysine biosynthesis VI,g__Paraprevotella|s__Paraprevotella_clara,0.000108574,CSM5MCUO
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_vulgatus,0.00285812,CSM5MCUO
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_stercoris,0.00107595,CSM5MCUO
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Roseburia|s__Roseburia_intestinalis,0.000755191,CSM5MCUO
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000651408,CSM5MCUO
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_plebeius,0.000459242,CSM5MCUO
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_caccae,0.000259165,CSM5MCUO
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Alistipes|s__Alistipes_shahii,0.000162536,CSM5MCUO
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Odoribacter|s__Odoribacter_splanchnicus,0.000110955,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_vulgatus,0.00195202,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_stercoris,0.00131918,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000530249,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Parasutterella|s__Parasutterella_excrementihominis,0.000509997,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000498104,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_plebeius,0.00042871,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_caccae,0.000331589,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Paraprevotella|s__Paraprevotella_clara,0.000148633,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_salyersiae,0.000100509,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Klebsiella|s__Klebsiella_pneumoniae,3.4236e-05,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_xylanisolvens,2.4387e-05,CSM5MCUO
+ pyruvate fermentation to isobutanol (engineered),g__Paraprevotella|s__Paraprevotella_xylaniphila,1.54141e-05,CSM5MCUO
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.00195202,CSM5MCUO
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_stercoris,0.00131918,CSM5MCUO
+ L-valine biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.000509997,CSM5MCUO
+ L-valine biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000498104,CSM5MCUO
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_plebeius,0.00042871,CSM5MCUO
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_caccae,0.000331589,CSM5MCUO
+ L-valine biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00016851,CSM5MCUO
+ L-valine biosynthesis,g__Paraprevotella|s__Paraprevotella_clara,0.000148633,CSM5MCUO
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_salyersiae,0.000100509,CSM5MCUO
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,2.4387e-05,CSM5MCUO
+ L-valine biosynthesis,g__Paraprevotella|s__Paraprevotella_xylaniphila,1.54141e-05,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Alistipes|s__Alistipes_putredinis,0.00273853,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Parasutterella|s__Parasutterella_excrementihominis,0.000279724,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000262333,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Bacteroides|s__Bacteroides_uniformis,0.000105146,CSM5MCUO
+ pyridoxal 5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_uniformis,0.000841673,CSM5MCUO
+ pyridoxal 5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_stercoris,0.000572847,CSM5MCUO
+ pentose phosphate pathway (non-oxidative branch),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00135822,CSM5MCUO
+ pentose phosphate pathway (non-oxidative branch),g__Alistipes|s__Alistipes_shahii,0.000448319,CSM5MCUO
+ pentose phosphate pathway (non-oxidative branch),g__Odoribacter|s__Odoribacter_splanchnicus,0.000395434,CSM5MCUO
+ pentose phosphate pathway (non-oxidative branch),g__Eubacterium|s__Eubacterium_eligens,0.000148756,CSM5MCUO
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Alistipes|s__Alistipes_putredinis,0.00158725,CSM5MCUO
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000295855,CSM5MCUO
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Parasutterella|s__Parasutterella_excrementihominis,0.000280407,CSM5MCUO
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_uniformis,9.84279e-05,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Alistipes|s__Alistipes_putredinis,0.00158319,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000356947,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000263421,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Parasutterella|s__Parasutterella_excrementihominis,0.000252823,CSM5MCUO
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_uniformis,8.1963e-05,CSM5MCUO
+ starch degradation V,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.0015263,CSM5MCUO
+ starch degradation V,g__Roseburia|s__Roseburia_intestinalis,0.00114173,CSM5MCUO
+ superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,g__Bacteroides|s__Bacteroides_uniformis,0.000927747,CSM5MCUO
+ chorismate biosynthesis from 3-dehydroquinate,g__Alistipes|s__Alistipes_shahii,0.000649693,CSM5MCUO
+ chorismate biosynthesis from 3-dehydroquinate,g__Parasutterella|s__Parasutterella_excrementihominis,0.000575692,CSM5MCUO
+ UMP biosynthesis,g__Alistipes|s__Alistipes_putredinis,0.00182377,CSM5MCUO
+ UMP biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.000846881,CSM5MCUO
+ UMP biosynthesis,g__Alistipes|s__Alistipes_onderdonkii,0.000493251,CSM5MCUO
+ UMP biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000485136,CSM5MCUO
+ UMP biosynthesis,g__Bacteroides|s__Bacteroides_stercoris,0.000388967,CSM5MCUO
+ L-histidine degradation I,g__Alistipes|s__Alistipes_shahii,0.000195627,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Alistipes|s__Alistipes_putredinis,0.00428825,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000757374,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Parasutterella|s__Parasutterella_excrementihominis,0.0003574,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Alistipes|s__Alistipes_onderdonkii,0.000303467,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000232496,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.000136034,CSM5MCUO
+ D-galacturonate degradation I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00339575,CSM5MCUO
+ chorismate biosynthesis I,g__Parasutterella|s__Parasutterella_excrementihominis,0.000655887,CSM5MCUO
+ pyrimidine deoxyribonucleotides de novo biosynthesis I,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000322927,CSM5MCUO
+ superpathway of L-serine and glycine biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.000251092,CSM5MCUO
+ superpathway of L-serine and glycine biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000132299,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Alistipes|s__Alistipes_putredinis,0.00389223,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000679845,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Parasutterella|s__Parasutterella_excrementihominis,0.000300105,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Alistipes|s__Alistipes_onderdonkii,0.000261461,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000201678,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Odoribacter|s__Odoribacter_splanchnicus,0.000132593,CSM5MCUO
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Roseburia|s__Roseburia_intestinalis,0.000120535,CSM5MCUO
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Alistipes|s__Alistipes_putredinis,0.00389223,CSM5MCUO
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000679845,CSM5MCUO
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.000300105,CSM5MCUO
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Alistipes|s__Alistipes_onderdonkii,0.000261461,CSM5MCUO
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000201678,CSM5MCUO
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Odoribacter|s__Odoribacter_splanchnicus,0.000132593,CSM5MCUO
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.000120535,CSM5MCUO
+ pyrimidine deoxyribonucleotide phosphorylation,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000827609,CSM5MCUO
+ pyrimidine deoxyribonucleotide phosphorylation,g__Parasutterella|s__Parasutterella_excrementihominis,0.000616725,CSM5MCUO
+ folate transformations II,g__Bacteroides|s__Bacteroides_vulgatus,0.00104761,CSM5MCUO
+ folate transformations II,g__Bacteroides|s__Bacteroides_uniformis,0.000638785,CSM5MCUO
+ folate transformations II,g__Bacteroides|s__Bacteroides_ovatus,0.000555486,CSM5MCUO
+ folate transformations II,g__Bacteroides|s__Bacteroides_stercoris,0.000442939,CSM5MCUO
+ superpathway of L-lysine, L-threonine and L-methionine biosynthesis II,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000236419,CSM5MCUO
+ superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli),g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000319614,CSM5MCUO
+ superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00449538,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_stercoris,0.000411404,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Parasutterella|s__Parasutterella_excrementihominis,0.00034595,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Alistipes|s__Alistipes_putredinis,0.000339714,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_plebeius,0.000269613,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Paraprevotella|s__Paraprevotella_clara,0.000173764,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_vulgatus,0.000128866,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_ovatus,0.000117623,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,8.54518e-05,CSM5MCUO
+ phosphopantothenate biosynthesis I,g__Odoribacter|s__Odoribacter_splanchnicus,8.15314e-05,CSM5MCUO
+ N10-formyl-tetrahydrofolate biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.000503146,CSM5MCUO
+ superpathway of hexuronide and hexuronate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00204278,CSM5MCUO
+ S-adenosyl-L-methionine cycle I,g__Paraprevotella|s__Paraprevotella_clara,0.000946474,CSM5MCUO
+ S-adenosyl-L-methionine cycle I,g__Bacteroides|s__Bacteroides_stercoris,0.000561761,CSM5MCUO
+ S-adenosyl-L-methionine cycle I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000165626,CSM5MCUO
+ S-adenosyl-L-methionine cycle I,g__Bacteroides|s__Bacteroides_uniformis,0.000118046,CSM5MCUO
+ S-adenosyl-L-methionine cycle I,g__Barnesiella|s__Barnesiella_intestinihominis,8.38035e-05,CSM5MCUO
+ glycolysis VI (metazoan),g__Bacteroides|s__Bacteroides_ovatus,6.74718e-05,CSM5MCUO
+ dTDP-L-rhamnose biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000764307,CSM5MCUO
+ dTDP-L-rhamnose biosynthesis I,g__Bacteroides|s__Bacteroides_ovatus,0.000361203,CSM5MCUO
+ dTDP-L-rhamnose biosynthesis I,g__Alistipes|s__Alistipes_shahii,0.000249724,CSM5MCUO
+ dTDP-L-rhamnose biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.000169844,CSM5MCUO
+ CMP-3-deoxy-D-manno-octulosonate biosynthesis I,g__Alistipes|s__Alistipes_shahii,0.000799086,CSM5MCUO
+ superpathway of &beta;-D-glucuronide and D-glucuronate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00177455,CSM5MCUO
+ guanosine nucleotides degradation III,g__Roseburia|s__Roseburia_intestinalis,0.000472771,CSM5MCUO
+ guanosine nucleotides degradation III,g__Odoribacter|s__Odoribacter_splanchnicus,0.000118006,CSM5MCUO
+ superpathway of L-threonine biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000252905,CSM5MCUO
+ adenosine nucleotides degradation II,g__Roseburia|s__Roseburia_intestinalis,0.000550022,CSM5MCUO
+ 4-deoxy-L-threo-hex-4-enopyranuronate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00429341,CSM5MCUO
+ superpathway of L-isoleucine biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000202789,CSM5MCUO
+ inosine-5'-phosphate biosynthesis I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000454616,CSM5MCUO
+ D-fructuronate degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00208292,CSM5MCUO
+ coenzyme A biosynthesis II (mammalian),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00196457,CSM5MCUO
+ coenzyme A biosynthesis II (mammalian),g__Alistipes|s__Alistipes_putredinis,0.000766231,CSM5MCUO
+ coenzyme A biosynthesis II (mammalian),g__Roseburia|s__Roseburia_intestinalis,0.00011568,CSM5MCUO
+ pyruvate fermentation to acetate and lactate II,g__Roseburia|s__Roseburia_intestinalis,0.000724775,CSM5MCUO
+ L-ornithine de novo  biosynthesis,g__Bacteroides|s__Bacteroides_stercoris,0.00110222,CSM5MCUO
+ L-ornithine de novo  biosynthesis,g__Bacteroides|s__Bacteroides_uniformis,0.00067521,CSM5MCUO
+ purine ribonucleosides degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00232333,CSM5MCUO
+ purine ribonucleosides degradation,g__Dorea|s__Dorea_formicigenerans,9.35988e-05,CSM5MCUO
+ sucrose degradation III (sucrose invertase),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00243888,CSM5MCUO
+ adenine and adenosine salvage III,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00204753,CSM5MCUO
+ adenine and adenosine salvage III,g__Odoribacter|s__Odoribacter_splanchnicus,0.000287586,CSM5MCUO
+ glycogen biosynthesis I (from ADP-D-Glucose),g__Roseburia|s__Roseburia_intestinalis,0.00169125,CSM5MCUO
+ queuosine biosynthesis,g__Paraprevotella|s__Paraprevotella_clara,0.000467687,CSM5MCUO
+ queuosine biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.000218497,CSM5MCUO
+ queuosine biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.000161399,CSM5MCUO
+ queuosine biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000137632,CSM5MCUO
+ D-galactose degradation V (Leloir pathway),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000650672,CSM5MCUO
+ D-galactose degradation V (Leloir pathway),g__Roseburia|s__Roseburia_intestinalis,0.00055912,CSM5MCUO
+ stachyose degradation,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00112264,CSM5MCUO
+ stachyose degradation,g__Roseburia|s__Roseburia_intestinalis,0.000403387,CSM5MCUO
+ galactose degradation I (Leloir pathway),g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000650672,CSM5MCUO
+ galactose degradation I (Leloir pathway),g__Roseburia|s__Roseburia_intestinalis,0.000507395,CSM5MCUO
+ inosine-5'-phosphate biosynthesis II,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000393985,CSM5MCUO
+ inosine-5'-phosphate biosynthesis II,g__Bacteroides|s__Bacteroides_ovatus,0.000134117,CSM5MCUO
+ inosine-5'-phosphate biosynthesis II,g__Bacteroides|s__Bacteroides_xylanisolvens,6.47192e-05,CSM5MCUO
+ preQ0 biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.000914346,CSM5MCUO
+ superpathway of L-aspartate and L-asparagine biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.000320182,CSM5MCUO
+ superpathway of L-aspartate and L-asparagine biosynthesis,g__Bacteroides|s__Bacteroides_ovatus,0.000187276,CSM5MCUO
+ superpathway of L-aspartate and L-asparagine biosynthesis,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,8.61352e-05,CSM5MCUO
+ L-arginine biosynthesis IV (archaebacteria),g__Parasutterella|s__Parasutterella_excrementihominis,0.000409301,CSM5MCUO
+ tRNA processing,g__Parasutterella|s__Parasutterella_excrementihominis,0.000848851,CSM5MCUO
+ tRNA processing,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00055487,CSM5MCUO
+ lipid IVA biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000223578,CSM5MCUO
+ lipid IVA biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.000215114,CSM5MCUO
+ tetrapyrrole biosynthesis I (from glutamate),g__Parasutterella|s__Parasutterella_excrementihominis,0.00105011,CSM5MCUO
+ tetrapyrrole biosynthesis I (from glutamate),g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000918212,CSM5MCUO
+ L-arginine biosynthesis I (via L-ornithine),g__Parasutterella|s__Parasutterella_excrementihominis,0.000395693,CSM5MCUO
+ GDP-mannose biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.000590013,CSM5MCUO
+ GDP-mannose biosynthesis,g__Alistipes|s__Alistipes_onderdonkii,0.000175311,CSM5MCUO
+ GDP-mannose biosynthesis,g__Bacteroides|s__Bacteroides_ovatus,7.5074e-05,CSM5MCUO
+ GDP-mannose biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,4.50872e-05,CSM5MCUO
+ L-proline biosynthesis II (from arginine),g__Odoribacter|s__Odoribacter_splanchnicus,0.000549703,CSM5MCUO
+ adenosylcobalamin salvage from cobinamide I,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.00059117,CSM5MCUO
+ adenosylcobalamin salvage from cobinamide I,g__Roseburia|s__Roseburia_intestinalis,0.000419245,CSM5MCUO
+ L-arginine biosynthesis II (acetyl cycle),g__Parasutterella|s__Parasutterella_excrementihominis,0.000303791,CSM5MCUO
+ L-histidine biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000334726,CSM5MCUO
+ L-histidine biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.000286718,CSM5MCUO
+ L-ornithine biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.000203699,CSM5MCUO
+ coenzyme A biosynthesis I,g__Bacteroides|s__Bacteroides_ovatus,0.00028915,CSM5MCUO
+ L-rhamnose degradation I,g__Bacteroides|s__Bacteroides_ovatus,0.000376962,CSM5MCUO
+ putrescine biosynthesis IV,g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.000250086,CSM5MCUO
+ putrescine biosynthesis IV,g__Odoribacter|s__Odoribacter_splanchnicus,0.000120289,CSM5MCUO
+ NAD biosynthesis I (from aspartate),g__Alistipes|s__Alistipes_shahii,7.07978e-05,CSM5MCUO
+ superpathway of acetyl-CoA biosynthesis,g__Klebsiella|s__Klebsiella_pneumoniae,0.000123882,CSM5MCUO
+ &gamma;-glutamyl cycle,g__Klebsiella|s__Klebsiella_pneumoniae,5.56731e-05,CSM5MCUO
+ myo-, chiro- and scillo-inositol degradation,g__Oscillibacter|s__Oscillibacter_sp_KLE_1745,6.23828e-05,CSM5MCUO
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.0371895,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.0142716,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00893478,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_fragilis,0.00368508,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Flavonifractor|s__Flavonifractor_plautii,0.00111746,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_5_1_57FAA,0.000602016,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Eubacterium|s__Eubacterium_rectale,0.000514805,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Dialister|s__Dialister_invisus,0.000177543,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Clostridium|s__Clostridium_nexile,0.000168647,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Clostridium|s__Clostridium_bolteae,0.000156498,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Dorea|s__Dorea_longicatena,9.83119e-05,CSM5MCVN
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.0264168,CSM5MCVN
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00489725,CSM5MCVN
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_fragilis,0.0021642,CSM5MCVN
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00151065,CSM5MCVN
+ guanosine ribonucleotides de novo biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_5_1_57FAA,0.000256816,CSM5MCVN
+ guanosine ribonucleotides de novo biosynthesis,g__Flavonifractor|s__Flavonifractor_plautii,0.00015066,CSM5MCVN
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Bacteroides|s__Bacteroides_vulgatus,0.0241308,CSM5MCVN
+ folate transformations II,g__Bacteroides|s__Bacteroides_vulgatus,0.0141305,CSM5MCVN
+ folate transformations II,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.0068199,CSM5MCVN
+ folate transformations II,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00334254,CSM5MCVN
+ folate transformations II,g__Bacteroides|s__Bacteroides_fragilis,0.00131655,CSM5MCVN
+ preQ0 biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.0230655,CSM5MCVN
+ preQ0 biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00213981,CSM5MCVN
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_vulgatus,0.0134668,CSM5MCVN
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.0046456,CSM5MCVN
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00184888,CSM5MCVN
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_fragilis,0.000595968,CSM5MCVN
+ N10-formyl-tetrahydrofolate biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00554979,CSM5MCVN
+ N10-formyl-tetrahydrofolate biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.0019068,CSM5MCVN
+ queuosine biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.00672578,CSM5MCVN
+ queuosine biosynthesis,g__Bacteroides|s__Bacteroides_fragilis,0.00245752,CSM5MCVN
+ queuosine biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.000670385,CSM5MCVN
+ inosine-5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00505058,CSM5MCVN
+ inosine-5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_fragilis,0.00264679,CSM5MCVN
+ inosine-5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00257075,CSM5MCVN
+ inosine-5'-phosphate biosynthesis II,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00697257,CSM5MCVN
+ inosine-5'-phosphate biosynthesis II,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00469819,CSM5MCVN
+ inosine-5'-phosphate biosynthesis II,g__Bacteroides|s__Bacteroides_fragilis,0.00243977,CSM5MCVN
+ pentose phosphate pathway (non-oxidative branch),g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00575334,CSM5MCVN
+ pentose phosphate pathway (non-oxidative branch),g__Bacteroides|s__Bacteroides_xylanisolvens,0.00283133,CSM5MCVN
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_vulgatus,0.00671061,CSM5MCVN
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00478286,CSM5MCVN
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.000817678,CSM5MCVN
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_fragilis,0.000635138,CSM5MCVN
+ gondoate biosynthesis (anaerobic),g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00528124,CSM5MCVN
+ gondoate biosynthesis (anaerobic),g__Bacteroides|s__Bacteroides_fragilis,0.00334138,CSM5MCVN
+ gondoate biosynthesis (anaerobic),g__Bacteroides|s__Bacteroides_xylanisolvens,0.000919524,CSM5MCVN
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_vulgatus,0.00864116,CSM5MCVN
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00244355,CSM5MCVN
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_fragilis,0.00183339,CSM5MCVN
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_xylanisolvens,0.000448276,CSM5MCVN
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Clostridium|s__Clostridium_nexile,0.000147795,CSM5MCVN
+ glycolysis III (from glucose),g__Bacteroides|s__Bacteroides_xylanisolvens,0.00104742,CSM5MCVN
+ methylerythritol phosphate pathway I,g__Bacteroides|s__Bacteroides_vulgatus,0.00454305,CSM5MCVN
+ UMP biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00414024,CSM5MCVN
+ UMP biosynthesis,g__Bacteroides|s__Bacteroides_fragilis,0.00130744,CSM5MCVN
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_5_1_57FAA,0.000362743,CSM5MCVN
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Clostridium|s__Clostridium_nexile,0.0001351,CSM5MCVN
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_5_1_57FAA,0.000362743,CSM5MCVN
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Clostridium|s__Clostridium_nexile,0.0001351,CSM5MCVN
+ CMP-3-deoxy-D-manno-octulosonate biosynthesis I,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00416019,CSM5MCVN
+ CMP-3-deoxy-D-manno-octulosonate biosynthesis I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.0010644,CSM5MCVN
+ pantothenate and coenzyme A biosynthesis I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00115634,CSM5MCVN
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00512731,CSM5MCVN
+ CDP-diacylglycerol biosynthesis I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00132903,CSM5MCVN
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00512731,CSM5MCVN
+ CDP-diacylglycerol biosynthesis II,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00132903,CSM5MCVN
+ glycolysis IV (plant cytosol),g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00536453,CSM5MCVN
+ glycolysis IV (plant cytosol),g__Bacteroides|s__Bacteroides_xylanisolvens,0.000933842,CSM5MCVN
+ adenine and adenosine salvage III,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00389055,CSM5MCVN
+ adenine and adenosine salvage III,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00170644,CSM5MCVN
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_vulgatus,0.00328579,CSM5MCVN
+ glycolysis VI (metazoan),g__Bacteroides|s__Bacteroides_xylanisolvens,0.00040559,CSM5MCVN
+ coenzyme A biosynthesis I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00183877,CSM5MCVN
+ coenzyme A biosynthesis II (mammalian),g__Bacteroides|s__Bacteroides_vulgatus,0.00201495,CSM5MCVN
+ coenzyme A biosynthesis II (mammalian),g__Bacteroides|s__Bacteroides_xylanisolvens,0.00145223,CSM5MCVN
+ coenzyme A biosynthesis II (mammalian),g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00104084,CSM5MCVN
+ coenzyme A biosynthesis II (mammalian),g__Flavonifractor|s__Flavonifractor_plautii,0.000497922,CSM5MCVN
+ coenzyme A biosynthesis II (mammalian),g__Bacteroides|s__Bacteroides_fragilis,0.000193886,CSM5MCVN
+ coenzyme A biosynthesis II (mammalian),g__Eubacterium|s__Eubacterium_rectale,0.000162948,CSM5MCVN
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_vulgatus,0.00281696,CSM5MCVN
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Flavonifractor|s__Flavonifractor_plautii,0.000483631,CSM5MCVN
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_fragilis,0.000470055,CSM5MCVN
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Flavonifractor|s__Flavonifractor_plautii,0.000542339,CSM5MCVN
+ superpathway of adenosine nucleotides de novo biosynthesis I,g__Bacteroides|s__Bacteroides_vulgatus,0.000790903,CSM5MCVN
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_vulgatus,0.0033046,CSM5MCVN
+ pyruvate fermentation to isobutanol (engineered),g__Clostridiales_noname|s__Clostridiales_bacterium_1_7_47FAA,0.000286109,CSM5MCVN
+ pyruvate fermentation to isobutanol (engineered),g__Bacteroides|s__Bacteroides_xylanisolvens,0.000118088,CSM5MCVN
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_vulgatus,0.0033046,CSM5MCVN
+ L-valine biosynthesis,g__Clostridiales_noname|s__Clostridiales_bacterium_1_7_47FAA,0.000286109,CSM5MCVN
+ L-valine biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.000118088,CSM5MCVN
+ purine ribonucleosides degradation,g__Clostridium|s__Clostridium_clostridioforme,0.00119645,CSM5MCVN
+ purine ribonucleosides degradation,g__Roseburia|s__Roseburia_hominis,0.000419765,CSM5MCVN
+ purine ribonucleosides degradation,g__Dorea|s__Dorea_longicatena,0.000355486,CSM5MCVN
+ L-lysine biosynthesis VI,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.0012341,CSM5MCVN
+ L-lysine biosynthesis VI,g__Bacteroides|s__Bacteroides_fragilis,0.000481534,CSM5MCVN
+ dTDP-L-rhamnose biosynthesis I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00200923,CSM5MCVN
+ pantothenate and coenzyme A biosynthesis III,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00127711,CSM5MCVN
+ superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00124313,CSM5MCVN
+ superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00118423,CSM5MCVN
+ superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,g__Bacteroides|s__Bacteroides_fragilis,0.000571126,CSM5MCVN
+ superpathway of L-aspartate and L-asparagine biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00275053,CSM5MCVN
+ pyridoxal 5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00156728,CSM5MCVN
+ pyridoxal 5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00109606,CSM5MCVN
+ pyridoxal 5'-phosphate biosynthesis I,g__Bacteroides|s__Bacteroides_fragilis,0.000601783,CSM5MCVN
+ L-histidine biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.00144879,CSM5MCVN
+ superpathway of adenosine nucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_vulgatus,0.00046603,CSM5MCVN
+ superpathway of guanosine nucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_vulgatus,0.000464801,CSM5MCVN
+ S-adenosyl-L-methionine cycle I,g__Bacteroides|s__Bacteroides_vulgatus,0.00370731,CSM5MCVN
+ L-rhamnose degradation I,g__Bacteroides|s__Bacteroides_xylanisolvens,0.0020918,CSM5MCVN
+ L-rhamnose degradation I,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.000338466,CSM5MCVN
+ GDP-mannose biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00295493,CSM5MCVN
+ chorismate biosynthesis from 3-dehydroquinate,g__Flavonifractor|s__Flavonifractor_plautii,0.000758097,CSM5MCVN
+ tetrapyrrole biosynthesis I (from glutamate),g__Flavonifractor|s__Flavonifractor_plautii,0.000679995,CSM5MCVN
+ L-ornithine de novo  biosynthesis,g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.000910279,CSM5MCVN
+ L-ornithine de novo  biosynthesis,g__Bacteroides|s__Bacteroides_fragilis,0.000836163,CSM5MCVN
+ L-ornithine de novo  biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.000620105,CSM5MCVN
+ superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis,g__Bacteroides|s__Bacteroides_xylanisolvens,0.00129422,CSM5MCVN
+ starch degradation V,g__Roseburia|s__Roseburia_hominis,0.000710569,CSM5MCVN
+ starch degradation V,g__Clostridium|s__Clostridium_clostridioforme,0.000179204,CSM5MCVN
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_vulgatus,0.000201375,CSM5MCVN
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_vulgatus,0.000201375,CSM5MCVN
+ flavin biosynthesis III (fungi),g__Bacteroides|s__Bacteroides_thetaiotaomicron,0.000476233,CSM5MCVN
+ cholate degradation (bacteria, anaerobic),g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_5_1_57FAA,0.000834285,CSM5MCVN
+ 4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis (yeast),g__Bacteroides|s__Bacteroides_fragilis,0.00033471,CSM5MCVN
+ adenosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.0640442,CSM5MCW6
+ adenosine ribonucleotides de novo biosynthesis,g__Clostridium|s__Clostridium_symbiosum,0.00487837,CSM5MCW6
+ adenosine ribonucleotides de novo biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.00372772,CSM5MCW6
+ adenosine ribonucleotides de novo biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00281331,CSM5MCW6
+ adenosine ribonucleotides de novo biosynthesis,g__Roseburia|s__Roseburia_hominis,0.00197514,CSM5MCW6
+ adenosine ribonucleotides de novo biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,0.00187544,CSM5MCW6
+ adenosine ribonucleotides de novo biosynthesis,g__Flavonifractor|s__Flavonifractor_plautii,0.00135264,CSM5MCW6
+ adenosine ribonucleotides de novo biosynthesis,g__Clostridium|s__Clostridium_sp_ATCC_BAA_442,0.00126362,CSM5MCW6
+ adenosine ribonucleotides de novo biosynthesis,g__Subdoligranulum|s__Subdoligranulum_variabile,0.000307133,CSM5MCW6
+ guanosine ribonucleotides de novo biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.02039,CSM5MCW6
+ guanosine ribonucleotides de novo biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.0036894,CSM5MCW6
+ guanosine ribonucleotides de novo biosynthesis,g__Parasutterella|s__Parasutterella_excrementihominis,0.00332755,CSM5MCW6
+ guanosine ribonucleotides de novo biosynthesis,g__Clostridium|s__Clostridium_symbiosum,0.000795749,CSM5MCW6
+ guanosine ribonucleotides de novo biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,0.000640882,CSM5MCW6
+ methylerythritol phosphate pathway I,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,0.0041329,CSM5MCW6
+ methylerythritol phosphate pathway I,g__Flavonifractor|s__Flavonifractor_plautii,0.0029686,CSM5MCW6
+ methylerythritol phosphate pathway I,g__Clostridium|s__Clostridium_sp_ATCC_BAA_442,0.0011119,CSM5MCW6
+ superpathway of adenosine nucleotides de novo biosynthesis I,g__Bacteroides|s__Bacteroides_dorei,0.0199924,CSM5MCW6
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Bacteroides|s__Bacteroides_dorei,0.0176397,CSM5MCW6
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.0030371,CSM5MCW6
+ superpathway of guanosine nucleotides de novo biosynthesis I,g__Parasutterella|s__Parasutterella_excrementihominis,0.00299348,CSM5MCW6
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Bacteroides|s__Bacteroides_dorei,0.0171122,CSM5MCW6
+ L-histidine degradation I,g__Clostridium|s__Clostridium_symbiosum,0.00141768,CSM5MCW6
+ folate transformations II,g__Bacteroides|s__Bacteroides_dorei,0.00845718,CSM5MCW6
+ superpathway of adenosine nucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_dorei,0.0133564,CSM5MCW6
+ chorismate biosynthesis from 3-dehydroquinate,g__Parasutterella|s__Parasutterella_excrementihominis,0.00245848,CSM5MCW6
+ chorismate biosynthesis from 3-dehydroquinate,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00121652,CSM5MCW6
+ chorismate biosynthesis from 3-dehydroquinate,g__Roseburia|s__Roseburia_hominis,0.00107678,CSM5MCW6
+ superpathway of guanosine nucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_dorei,0.010201,CSM5MCW6
+ superpathway of guanosine nucleotides de novo biosynthesis II,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00275415,CSM5MCW6
+ superpathway of guanosine nucleotides de novo biosynthesis II,g__Parasutterella|s__Parasutterella_excrementihominis,0.00237402,CSM5MCW6
+ chorismate biosynthesis I,g__Parasutterella|s__Parasutterella_excrementihominis,0.00148479,CSM5MCW6
+ chorismate biosynthesis I,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00116241,CSM5MCW6
+ pyrimidine deoxyribonucleotide phosphorylation,g__Parasutterella|s__Parasutterella_excrementihominis,0.00267517,CSM5MCW6
+ pyrimidine deoxyribonucleotide phosphorylation,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00119009,CSM5MCW6
+ pyruvate fermentation to isobutanol (engineered),g__Clostridium|s__Clostridium_symbiosum,0.00275526,CSM5MCW6
+ pyruvate fermentation to isobutanol (engineered),g__Clostridium|s__Clostridium_sp_ATCC_BAA_442,0.000286632,CSM5MCW6
+ pyruvate fermentation to isobutanol (engineered),g__Coprobacter|s__Coprobacter_fastidiosus,0.000262788,CSM5MCW6
+ pyruvate fermentation to isobutanol (engineered),g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,0.000249351,CSM5MCW6
+ pyruvate fermentation to isobutanol (engineered),g__Flavonifractor|s__Flavonifractor_plautii,0.000167888,CSM5MCW6
+ pyruvate fermentation to isobutanol (engineered),g__Clostridium|s__Clostridium_bolteae,0.000101486,CSM5MCW6
+ L-valine biosynthesis,g__Clostridium|s__Clostridium_symbiosum,0.00275526,CSM5MCW6
+ L-valine biosynthesis,g__Roseburia|s__Roseburia_hominis,0.00135409,CSM5MCW6
+ L-valine biosynthesis,g__Pseudoflavonifractor|s__Pseudoflavonifractor_capillosus,0.000751405,CSM5MCW6
+ L-valine biosynthesis,g__Odoribacter|s__Odoribacter_splanchnicus,0.000483126,CSM5MCW6
+ L-valine biosynthesis,g__Clostridium|s__Clostridium_sp_ATCC_BAA_442,0.000286632,CSM5MCW6
+ L-valine biosynthesis,g__Coprobacter|s__Coprobacter_fastidiosus,0.000262788,CSM5MCW6
+ L-valine biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,0.000249351,CSM5MCW6
+ L-valine biosynthesis,g__Flavonifractor|s__Flavonifractor_plautii,0.000167888,CSM5MCW6
+ L-valine biosynthesis,g__Clostridium|s__Clostridium_bolteae,0.000101486,CSM5MCW6
+ coenzyme A biosynthesis II (mammalian),g__Clostridium|s__Clostridium_sp_ATCC_BAA_442,0.00461554,CSM5MCW6
+ coenzyme A biosynthesis II (mammalian),g__Bacteroides|s__Bacteroides_dorei,0.00196095,CSM5MCW6
+ coenzyme A biosynthesis II (mammalian),g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,0.00143361,CSM5MCW6
+ coenzyme A biosynthesis II (mammalian),g__Flavonifractor|s__Flavonifractor_plautii,0.000913541,CSM5MCW6
+ superpathway of pyrimidine nucleobases salvage,g__Parasutterella|s__Parasutterella_excrementihominis,0.00130986,CSM5MCW6
+ superpathway of pyrimidine nucleobases salvage,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00118508,CSM5MCW6
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_dorei,0.00654062,CSM5MCW6
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00234525,CSM5MCW6
+ adenosine deoxyribonucleotides de novo biosynthesis II,g__Parasutterella|s__Parasutterella_excrementihominis,0.00178339,CSM5MCW6
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Bacteroides|s__Bacteroides_dorei,0.00654062,CSM5MCW6
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00234525,CSM5MCW6
+ guanosine deoxyribonucleotides de novo biosynthesis II,g__Parasutterella|s__Parasutterella_excrementihominis,0.00178339,CSM5MCW6
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_dorei,0.00222715,CSM5MCW6
+ L-lysine biosynthesis VI,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000499353,CSM5MCW6
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,0.000727445,CSM5MCW6
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Roseburia|s__Roseburia_hominis,0.000641472,CSM5MCW6
+ CDP-diacylglycerol biosynthesis I,g__Clostridium|s__Clostridium_sp_ATCC_BAA_442,0.0015158,CSM5MCW6
+ CDP-diacylglycerol biosynthesis I,g__Flavonifractor|s__Flavonifractor_plautii,0.000232153,CSM5MCW6
+ CDP-diacylglycerol biosynthesis II,g__Clostridium|s__Clostridium_sp_ATCC_BAA_442,0.0015158,CSM5MCW6
+ CDP-diacylglycerol biosynthesis II,g__Flavonifractor|s__Flavonifractor_plautii,0.000232153,CSM5MCW6
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Bacteroides|s__Bacteroides_dorei,0.0019629,CSM5MCW6
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_7_1_58FAA,0.00075252,CSM5MCW6
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Roseburia|s__Roseburia_hominis,0.000667308,CSM5MCW6
+ L-lysine biosynthesis III,g__Bacteroides|s__Bacteroides_dorei,0.0055188,CSM5MCW6
+ L-lysine biosynthesis III,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000432933,CSM5MCW6
+ S-adenosyl-L-methionine cycle I,g__Bacteroides|s__Bacteroides_dorei,0.0020726,CSM5MCW6
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Odoribacter|s__Odoribacter_splanchnicus,0.000655218,CSM5MCW6
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Odoribacter|s__Odoribacter_splanchnicus,0.000655218,CSM5MCW6
+ tRNA processing,g__Parasutterella|s__Parasutterella_excrementihominis,0.00234435,CSM5MCW6
+ tRNA processing,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.002204,CSM5MCW6
+ tetrapyrrole biosynthesis I (from glutamate),g__Parasutterella|s__Parasutterella_excrementihominis,0.000698376,CSM5MCW6
+ tetrapyrrole biosynthesis I (from glutamate),g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.00063885,CSM5MCW6
+ tetrapyrrole biosynthesis I (from glutamate),g__Flavonifractor|s__Flavonifractor_plautii,0.000441526,CSM5MCW6
+ tetrapyrrole biosynthesis I (from glutamate),g__Clostridium|s__Clostridium_sp_ATCC_BAA_442,0.000273742,CSM5MCW6
+ phosphopantothenate biosynthesis I,g__Bacteroides|s__Bacteroides_dorei,0.00168241,CSM5MCW6
+ phosphopantothenate biosynthesis I,g__Roseburia|s__Roseburia_hominis,0.00052989,CSM5MCW6
+ phosphopantothenate biosynthesis I,g__Parasutterella|s__Parasutterella_excrementihominis,0.00051356,CSM5MCW6
+ preQ0 biosynthesis,g__Bacteroides|s__Bacteroides_dorei,0.00507656,CSM5MCW6
+ purine ribonucleosides degradation,g__Roseburia|s__Roseburia_hominis,0.000470565,CSM5MCW6
+ purine ribonucleosides degradation,g__Clostridium|s__Clostridium_clostridioforme,0.00040928,CSM5MCW6
+ lipid IVA biosynthesis,g__Burkholderiales_noname|s__Burkholderiales_bacterium_1_1_47,0.000263662,CSM5MCW6
+ starch degradation V,g__Clostridium|s__Clostridium_symbiosum,0.00126924,CSM5MCW6
+ starch degradation V,g__Roseburia|s__Roseburia_hominis,0.000749839,CSM5MCW6
+ starch degradation V,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_3_1_57FAA_CT1,0.000460602,CSM5MCW6
+ pentose phosphate pathway (non-oxidative branch),g__Odoribacter|s__Odoribacter_splanchnicus,0.00191211,CSM5MCW6
+ pyruvate fermentation to acetate and lactate II,g__Roseburia|s__Roseburia_hominis,0.00042965,CSM5MCW6
+ peptidoglycan maturation (meso-diaminopimelate containing),g__Odoribacter|s__Odoribacter_splanchnicus,0.000755233,CSM5MCW6
+ starch degradation V,g__Roseburia|s__Roseburia_intestinalis,0.0430504,CSM5MCWC
+ starch degradation V,g__Escherichia|s__Escherichia_coli,0.000277801,CSM5MCWC
+ starch degradation V,g__Blautia|s__Blautia_hansenii,0.000132693,CSM5MCWC
+ starch degradation V,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_6_1_63FAA,8.89876e-05,CSM5MCWC
+ starch degradation V,g__Blautia|s__Ruminococcus_gnavus,2.60489e-05,CSM5MCWC
+ adenosine ribonucleotides de novo biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.0319161,CSM5MCWC
+ adenosine ribonucleotides de novo biosynthesis,g__Escherichia|s__Escherichia_coli,0.00240426,CSM5MCWC
+ adenosine ribonucleotides de novo biosynthesis,g__Clostridium|s__Clostridium_hathewayi,0.00199868,CSM5MCWC
+ adenosine ribonucleotides de novo biosynthesis,g__Peptostreptococcaceae_noname|s__Clostridium_bartlettii,0.000769942,CSM5MCWC
+ adenosine ribonucleotides de novo biosynthesis,g__Veillonella|s__Veillonella_parvula,0.000377041,CSM5MCWC
+ adenosine ribonucleotides de novo biosynthesis,g__Blautia|s__Blautia_hansenii,0.000247448,CSM5MCWC
+ glycogen biosynthesis I (from ADP-D-Glucose),g__Roseburia|s__Roseburia_intestinalis,0.0393767,CSM5MCWC
+ glycogen biosynthesis I (from ADP-D-Glucose),g__Escherichia|s__Escherichia_coli,0.00078368,CSM5MCWC
+ D-galactose degradation V (Leloir pathway),g__Roseburia|s__Roseburia_intestinalis,0.0324348,CSM5MCWC
+ D-galactose degradation V (Leloir pathway),g__Escherichia|s__Escherichia_coli,0.000728585,CSM5MCWC
+ galactose degradation I (Leloir pathway),g__Roseburia|s__Roseburia_intestinalis,0.0273243,CSM5MCWC
+ galactose degradation I (Leloir pathway),g__Escherichia|s__Escherichia_coli,0.000441332,CSM5MCWC
+ stachyose degradation,g__Roseburia|s__Roseburia_intestinalis,0.0242987,CSM5MCWC
+ stachyose degradation,g__Escherichia|s__Escherichia_coli,0.000563222,CSM5MCWC
+ GDP-mannose biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.01766,CSM5MCWC
+ superpathway of L-aspartate and L-asparagine biosynthesis,g__Escherichia|s__Escherichia_coli,0.00797936,CSM5MCWC
+ superpathway of L-aspartate and L-asparagine biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.00336254,CSM5MCWC
+ pentose phosphate pathway (non-oxidative branch),g__Roseburia|s__Roseburia_intestinalis,0.0171796,CSM5MCWC
+ pentose phosphate pathway (non-oxidative branch),g__Escherichia|s__Escherichia_coli,0.000138089,CSM5MCWC
+ guanosine ribonucleotides de novo biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.0168365,CSM5MCWC
+ guanosine ribonucleotides de novo biosynthesis,g__Escherichia|s__Escherichia_coli,0.000631733,CSM5MCWC
+ guanosine ribonucleotides de novo biosynthesis,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_6_1_63FAA,0.000261627,CSM5MCWC
+ guanosine ribonucleotides de novo biosynthesis,g__Blautia|s__Blautia_hansenii,0.000260053,CSM5MCWC
+ guanosine ribonucleotides de novo biosynthesis,g__Clostridium|s__Clostridium_hathewayi,0.000229103,CSM5MCWC
+ guanosine ribonucleotides de novo biosynthesis,g__Flavonifractor|s__Flavonifractor_plautii,0.000108152,CSM5MCWC
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Roseburia|s__Roseburia_intestinalis,0.020254,CSM5MCWC
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Blautia|s__Blautia_hansenii,0.000122611,CSM5MCWC
+ 5-aminoimidazole ribonucleotide biosynthesis II,g__Escherichia|s__Escherichia_coli,9.70286e-05,CSM5MCWC
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.020254,CSM5MCWC
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Blautia|s__Blautia_hansenii,0.000122611,CSM5MCWC
+ superpathway of 5-aminoimidazole ribonucleotide biosynthesis,g__Escherichia|s__Escherichia_coli,9.70286e-05,CSM5MCWC
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.019481,CSM5MCWC
+ 5-aminoimidazole ribonucleotide biosynthesis I,g__Escherichia|s__Escherichia_coli,0.000116661,CSM5MCWC
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Roseburia|s__Roseburia_intestinalis,0.0158159,CSM5MCWC
+ urate biosynthesis/inosine 5'-phosphate degradation,g__Escherichia|s__Escherichia_coli,0.00161982,CSM5MCWC
+ glycolysis IV (plant cytosol),g__Escherichia|s__Escherichia_coli,0.00633449,CSM5MCWC
+ glycolysis III (from glucose),g__Escherichia|s__Escherichia_coli,0.00250321,CSM5MCWC
+ purine ribonucleosides degradation,g__Roseburia|s__Roseburia_intestinalis,0.00840431,CSM5MCWC
+ purine ribonucleosides degradation,g__Escherichia|s__Escherichia_coli,0.00382836,CSM5MCWC
+ purine ribonucleosides degradation,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_6_1_63FAA,0.000512788,CSM5MCWC
+ purine ribonucleosides degradation,g__Blautia|s__Blautia_hansenii,0.000502277,CSM5MCWC
+ coenzyme A biosynthesis II (mammalian),g__Roseburia|s__Roseburia_intestinalis,0.0137032,CSM5MCWC
+ coenzyme A biosynthesis II (mammalian),g__Escherichia|s__Escherichia_coli,4.2559e-05,CSM5MCWC
+ adenosine nucleotides degradation II,g__Roseburia|s__Roseburia_intestinalis,0.0109267,CSM5MCWC
+ adenosine nucleotides degradation II,g__Escherichia|s__Escherichia_coli,0.00146699,CSM5MCWC
+ Calvin-Benson-Bassham cycle,g__Escherichia|s__Escherichia_coli,0.000468377,CSM5MCWC
+ guanosine nucleotides degradation III,g__Roseburia|s__Roseburia_intestinalis,0.00999571,CSM5MCWC
+ guanosine nucleotides degradation III,g__Escherichia|s__Escherichia_coli,0.00161982,CSM5MCWC
+ glycolysis I (from glucose 6-phosphate),g__Escherichia|s__Escherichia_coli,0.00198631,CSM5MCWC
+ L-valine biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.00751398,CSM5MCWC
+ L-valine biosynthesis,g__Clostridium|s__Clostridium_hathewayi,0.00106901,CSM5MCWC
+ CDP-diacylglycerol biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.0100716,CSM5MCWC
+ CDP-diacylglycerol biosynthesis I,g__Clostridium|s__Clostridium_hathewayi,0.000387977,CSM5MCWC
+ CDP-diacylglycerol biosynthesis II,g__Roseburia|s__Roseburia_intestinalis,0.0100716,CSM5MCWC
+ CDP-diacylglycerol biosynthesis II,g__Clostridium|s__Clostridium_hathewayi,0.000387977,CSM5MCWC
+ superpathway of pyrimidine nucleobases salvage,g__Roseburia|s__Roseburia_intestinalis,0.0105211,CSM5MCWC
+ coenzyme A biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.00946501,CSM5MCWC
+ coenzyme A biosynthesis I,g__Escherichia|s__Escherichia_coli,3.36373e-05,CSM5MCWC
+ chorismate biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.00821223,CSM5MCWC
+ chorismate biosynthesis I,g__Escherichia|s__Escherichia_coli,0.000289482,CSM5MCWC
+ superpathway of aromatic amino acid biosynthesis,g__Roseburia|s__Roseburia_intestinalis,0.00810291,CSM5MCWC
+ glycolysis VI (metazoan),g__Escherichia|s__Escherichia_coli,0.00194425,CSM5MCWC
+ methylerythritol phosphate pathway I,g__Roseburia|s__Roseburia_intestinalis,0.00577887,CSM5MCWC
+ chorismate biosynthesis from 3-dehydroquinate,g__Roseburia|s__Roseburia_intestinalis,0.00739935,CSM5MCWC
+ chorismate biosynthesis from 3-dehydroquinate,g__Escherichia|s__Escherichia_coli,0.00022415,CSM5MCWC
+ pyruvate fermentation to acetate and lactate II,g__Roseburia|s__Roseburia_intestinalis,0.00477426,CSM5MCWC
+ glycolysis II (from fructose 6-phosphate),g__Escherichia|s__Escherichia_coli,0.00166317,CSM5MCWC
+ peptidoglycan biosynthesis I (meso-diaminopimelate containing),g__Escherichia|s__Escherichia_coli,0.000266176,CSM5MCWC
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing),g__Escherichia|s__Escherichia_coli,0.000450597,CSM5MCWC
+ L-lysine biosynthesis VI,g__Roseburia|s__Roseburia_intestinalis,0.00638633,CSM5MCWC
+ L-lysine biosynthesis VI,g__Clostridium|s__Clostridium_hathewayi,0.000302035,CSM5MCWC
+ L-lysine biosynthesis VI,g__Escherichia|s__Escherichia_coli,0.000242587,CSM5MCWC
+ pyruvate fermentation to isobutanol (engineered),g__Clostridium|s__Clostridium_hathewayi,0.00106901,CSM5MCWC
+ pyruvate fermentation to isobutanol (engineered),g__Escherichia|s__Escherichia_coli,0.000151144,CSM5MCWC
+ superpathway of L-lysine, L-threonine and L-methionine biosynthesis II,g__Escherichia|s__Escherichia_coli,0.000212617,CSM5MCWC
+ superpathway of L-serine and glycine biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.00450659,CSM5MCWC
+ superpathway of L-serine and glycine biosynthesis I,g__Escherichia|s__Escherichia_coli,0.000632533,CSM5MCWC
+ adenosylcobalamin salvage from cobinamide I,g__Roseburia|s__Roseburia_intestinalis,0.00657416,CSM5MCWC
+ dTDP-L-rhamnose biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.00593717,CSM5MCWC
+ L-lysine biosynthesis III,g__Clostridium|s__Clostridium_hathewayi,0.000328627,CSM5MCWC
+ L-lysine biosynthesis III,g__Escherichia|s__Escherichia_coli,0.000220218,CSM5MCWC
+ peptidoglycan biosynthesis III (mycobacteria),g__Escherichia|s__Escherichia_coli,0.000505637,CSM5MCWC
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing),g__Escherichia|s__Escherichia_coli,0.000250127,CSM5MCWC
+ superpathway of L-threonine biosynthesis,g__Escherichia|s__Escherichia_coli,0.000308462,CSM5MCWC
+ phosphopantothenate biosynthesis I,g__Roseburia|s__Roseburia_intestinalis,0.00454674,CSM5MCWC
+ phosphopantothenate biosynthesis I,g__Escherichia|s__Escherichia_coli,0.000389284,CSM5MCWC
+ peptidoglycan maturation (meso-diaminopimelate containing),g__Escherichia|s__Escherichia_coli,0.00173537,CSM5MCWC
+ L-rhamnose degradation I,g__Clostridium|s__Clostridium_hathewayi,0.00429254,CSM5MCWC
+ superpathway of acetyl-CoA biosynthesis,g__Escherichia|s__Escherichia_coli,0.00403998,CSM5MCWC
+ S-adenosyl-L-methionine cycle I,g__Roseburia|s__Roseburia_intestinalis,0.00151967,CSM5MCWC
+ S-adenosyl-L-methionine cycle I,g__Clostridium|s__Clostridium_hathewayi,0.00120736,CSM5MCWC
+ S-adenosyl-L-methionine cycle I,g__Escherichia|s__Escherichia_coli,0.000724407,CSM5MCWC
+ S-adenosyl-L-methionine cycle I,g__Blautia|s__Ruminococcus_gnavus,0.000197541,CSM5MCWC
+ glucose and glucose-1-phosphate degradation,g__Escherichia|s__Escherichia_coli,0.000577823,CSM5MCWC
+ folate transformations II,g__Escherichia|s__Escherichia_coli,0.000516341,CSM5MCWC
+ anhydromuropeptides recycling,g__Escherichia|s__Escherichia_coli,0.00196739,CSM5MCWC
+ sucrose degradation IV (sucrose phosphorylase),g__Roseburia|s__Roseburia_intestinalis,0.00287249,CSM5MCWC
+ D-galacturonate degradation I,g__Escherichia|s__Escherichia_coli,0.00152202,CSM5MCWC
+ gondoate biosynthesis (anaerobic),g__Escherichia|s__Escherichia_coli,0.00159171,CSM5MCWC
+ adenine and adenosine salvage III,g__Escherichia|s__Escherichia_coli,0.000430081,CSM5MCWC
+ superpathway of hexuronide and hexuronate degradation,g__Escherichia|s__Escherichia_coli,0.000999439,CSM5MCWC
+ D-fructuronate degradation,g__Escherichia|s__Escherichia_coli,0.000904862,CSM5MCWC
+ &gamma;-glutamyl cycle,g__Escherichia|s__Escherichia_coli,0.00203647,CSM5MCWC
+ UDP-N-acetyl-D-glucosamine biosynthesis I,g__Escherichia|s__Escherichia_coli,0.000272776,CSM5MCWC
+ fatty acid elongation -- saturated,g__Escherichia|s__Escherichia_coli,0.00133012,CSM5MCWC
+ tetrapyrrole biosynthesis I (from glutamate),g__Escherichia|s__Escherichia_coli,0.000567437,CSM5MCWC
+ palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate),g__Escherichia|s__Escherichia_coli,0.00124033,CSM5MCWC
+ oleate biosynthesis IV (anaerobic),g__Escherichia|s__Escherichia_coli,0.00121686,CSM5MCWC
+ L-histidine degradation I,g__Blautia|s__Blautia_hansenii,0.000859559,CSM5MCWC
+ L-histidine degradation I,g__Lachnospiraceae_noname|s__Lachnospiraceae_bacterium_6_1_63FAA,0.00078369,CSM5MCWC
+ (5Z)-dodec-5-enoate biosynthesis,g__Escherichia|s__Escherichia_coli,0.00109279,CSM5MCWC
+ flavin biosynthesis III (fungi),g__Escherichia|s__Escherichia_coli,0.00102972,CSM5MCWC
+ superpathway of &beta;-D-glucuronide and D-glucuronate degradation,g__Escherichia|s__Escherichia_coli,0.000790802,CSM5MCWC
+ L-arginine biosynthesis I (via L-ornithine),g__Escherichia|s__Escherichia_coli,8.8656e-05,CSM5MCWC
+ L-arginine biosynthesis IV (archaebacteria),g__Escherichia|s__Escherichia_coli,8.80805e-05,CSM5MCWC
+ flavin biosynthesis I (bacteria and plants),g__Escherichia|s__Escherichia_coli,0.000985685,CSM5MCWC
+ NAD salvage pathway II,g__Escherichia|s__Escherichia_coli,0.00111529,CSM5MCWC
+ hexitol fermentation to lactate, formate, ethanol and acetate,g__Escherichia|s__Escherichia_coli,0.00114148,CSM5MCWC
+ L-ornithine biosynthesis,g__Escherichia|s__Escherichia_coli,0.00022203,CSM5MCWC
+ octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast),g__Escherichia|s__Escherichia_coli,0.000742649,CSM5MCWC
+ superpathway of fatty acid biosynthesis initiation (E. coli),g__Escherichia|s__Escherichia_coli,0.00061653,CSM5MCWC
+ inosine-5'-phosphate biosynthesis I,g__Escherichia|s__Escherichia_coli,9.80198e-05,CSM5MCWC
+ 4-deoxy-L-threo-hex-4-enopyranuronate degradation,g__Escherichia|s__Escherichia_coli,0.000217323,CSM5MCWC
+ inosine-5'-phosphate biosynthesis II,g__Escherichia|s__Escherichia_coli,0.000109384,CSM5MCWC
+ heme biosynthesis II (anaerobic),g__Escherichia|s__Escherichia_coli,0.000867324,CSM5MCWC
+ CMP-3-deoxy-D-manno-octulosonate biosynthesis I,g__Escherichia|s__Escherichia_coli,0.000633314,CSM5MCWC
+ trehalose degradation V,g__Escherichia|s__Escherichia_coli,0.000384123,CSM5MCWC
+ phospholipid remodeling (phosphatidylethanolamine, yeast),g__Escherichia|s__Escherichia_coli,0.000750778,CSM5MCWC
+ NAD/NADH phosphorylation and dephosphorylation,g__Escherichia|s__Escherichia_coli,0.000621217,CSM5MCWC
+ seleno-amino acid biosynthesis,g__Escherichia|s__Escherichia_coli,0.000619507,CSM5MCWC
+ L-lysine biosynthesis I,g__Escherichia|s__Escherichia_coli,0.000140511,CSM5MCWC
+ TCA cycle I (prokaryotic),g__Escherichia|s__Escherichia_coli,0.000629404,CSM5MCWC
+ thiamin formation from pyrithiamine and oxythiamine (yeast),g__Roseburia|s__Roseburia_intestinalis,0.00050641,CSM5MCWC
+ molybdenum cofactor biosynthesis,g__Escherichia|s__Escherichia_coli,0.000557106,CSM5MCWC
+ L-arginine biosynthesis III (via N-acetyl-L-citrulline),g__Escherichia|s__Escherichia_coli,9.86722e-05,CSM5MCWC
+ fucose degradation,g__Escherichia|s__Escherichia_coli,0.000480649,CSM5MCWC
+ purine nucleotides degradation II (aerobic),g__Escherichia|s__Escherichia_coli,0.00039674,CSM5MCWC
+ sulfoglycolysis,g__Escherichia|s__Escherichia_coli,0.000461192,CSM5MCWC
+ phosphatidylcholine acyl editing,g__Escherichia|s__Escherichia_coli,0.000457934,CSM5MCWC
+ polyisoprenoid biosynthesis (E. coli),g__Escherichia|s__Escherichia_coli,0.000341572,CSM5MCWC
+ glyoxylate cycle,g__Escherichia|s__Escherichia_coli,0.00041142,CSM5MCWC
+ superpathway of glyoxylate bypass and TCA,g__Escherichia|s__Escherichia_coli,0.000395849,CSM5MCWC
+ ADP-L-glycero-&beta;-D-manno-heptose biosynthesis,g__Escherichia|s__Escherichia_coli,0.000325945,CSM5MCWC
+ fatty acid &beta;-oxidation I,g__Escherichia|s__Escherichia_coli,0.000237968,CSM5MCWC
+ all-trans-farnesol biosynthesis,g__Escherichia|s__Escherichia_coli,0.000244139,CSM5MCWC
+ superpathway of purine deoxyribonucleosides degradation,g__Escherichia|s__Escherichia_coli,0.000264667,CSM5MCWC
+ unsaturated, even numbered fatty acid &beta;-oxidation,g__Escherichia|s__Escherichia_coli,0.000245102,CSM5MCWC
+ tetrapyrrole biosynthesis II (from glycine),g__Escherichia|s__Escherichia_coli,0.000216929,CSM5MCWC
+ allantoin degradation to glyoxylate III,g__Escherichia|s__Escherichia_coli,0.000200114,CSM5MCWC
+ preQ0 biosynthesis,g__Escherichia|s__Escherichia_coli,0.000179593,CSM5MCWC
+ superpathway of glycolysis and Entner-Doudoroff,g__Escherichia|s__Escherichia_coli,0.000131734,CSM5MCWC
+ superpathway of glycol metabolism and degradation,g__Escherichia|s__Escherichia_coli,0.000112524,CSM5MCWC

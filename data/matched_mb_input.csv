@@ -1,0 +1,535 @@
+metabolites,sample_id,ab_value
+12.13-diHOME,CSM5MCVN,      198397
+9.10-diHOME,CSM5MCVN,      783799
+caproate,CSM5MCVN,          15
+hydrocinnamate,CSM5MCVN,       14948
+mandelate,CSM5MCVN,       15927
+3-hydroxyoctanoate,CSM5MCVN,        4482
+caprate,CSM5MCVN,       20126
+indoleacetate,CSM5MCVN,       16368
+3-hydroxydecanoate,CSM5MCVN,      575098
+dodecanoate,CSM5MCVN,      501381
+undecanedionate,CSM5MCVN,      159155
+myristoleate,CSM5MCVN,      113660
+myristate,CSM5MCVN,    11443374
+dodecanedioate,CSM5MCVN,     2430407
+pentadecanoate,CSM5MCVN,    27409250
+hydroxymyristate,CSM5MCVN,        7021
+palmitoleate,CSM5MCVN,    16358394
+palmitate,CSM5MCVN,    36835817
+tetradecanedioate,CSM5MCVN,       18918
+10-heptadecenoate,CSM5MCVN,     1739014
+2-hydroxyhexadecanoate,CSM5MCVN,      373992
+alpha-linolenate,CSM5MCVN,    26744914
+linoleate,CSM5MCVN,   140533689
+oleate,CSM5MCVN,   258876223
+stearate,CSM5MCVN,     3150970
+hexadecanedioate,CSM5MCVN,        1207
+10-nonadecenoate,CSM5MCVN,     3396292
+nonadecanoate,CSM5MCVN,       34756
+17-methylstearate,CSM5MCVN,       38955
+eicosapentaenoate,CSM5MCVN,    10874671
+arachidonate,CSM5MCVN,    63839244
+eicosatrienoate,CSM5MCVN,    30115579
+eicosadienoate,CSM5MCVN,     8650249
+eicosenoate,CSM5MCVN,     9831361
+arachidate,CSM5MCVN,      202064
+phytanate,CSM5MCVN,     2055901
+docosahexaenoate,CSM5MCVN,    53092129
+docosapentaenoate,CSM5MCVN,    21430144
+adrenate,CSM5MCVN,     8611174
+13-docosenoate,CSM5MCVN,     1143702
+eicosanedioate,CSM5MCVN,        7840
+oleanate,CSM5MCVN,    14177504
+masilinate,CSM5MCVN,    45973786
+lithocholate,CSM5MCVN,   114597192
+chenodeoxycholate,CSM5MCVN,     8002538
+deoxycholate,CSM5MCVN,   170363205
+hyodeoxycholate/ursodeoxycholate,CSM5MCVN,     8816679
+ketodeoxycholate,CSM5MCVN,     2433473
+alpha-muricholate,CSM5MCVN,     8956634
+cholate,CSM5MCVN,    10225632
+glycolithocholate,CSM5MCVN,      445267
+glycochenodeoxycholate,CSM5MCVN,     1332320
+glycodeoxycholate,CSM5MCVN,     1953808
+glycoursodeoxycholate,CSM5MCVN,       19713
+glycocholate,CSM5MCVN,      698590
+taurolithocholate,CSM5MCVN,    11936265
+taurochenodeoxycholate,CSM5MCVN,      808699
+taurodeoxycholate,CSM5MCVN,    25308859
+taurohyodeoxycholate/tauroursodeoxycholate,CSM5MCVN,      281776
+tauro-alpha-muricholate/tauro-beta-muricholate,CSM5MCVN,      526912
+taurocholate,CSM5MCVN,     5859858
+salicylate,CSM5MCVN,       70103
+theophylline,CSM5MCVN,     5156038
+saccharin,CSM5MCVN,       18179
+azelate,CSM5MCVN,      664719
+sebacate,CSM5MCVN,      100609
+carboxyibuprofen,CSM5MCVN,         575
+olmesartan,CSM5MCVN,        5807
+1.2.3.4-tetrahydro-beta-carboline-1.3-dicarboxylate,CSM5MCVN,           5
+4-hydroxystyrene,CSM5MCVN,        6240
+acetytyrosine,CSM5MCVN,      194188
+alpha-CEHC,CSM5MCVN,       11345
+carnosol,CSM5MCVN,        5891
+crustecdysone,CSM5MCVN,        2383
+oxypurinol,CSM5MCVN,      638128
+palmitoylethanolamide,CSM5MCVN,      242053
+phenyllactate,CSM5MCVN,      585886
+p-hydroxyphenylacetate,CSM5MCVN,    10446551
+porphobilinogen,CSM5MCVN,     8925575
+nervonic acid,CSM5MCVN,      195053
+acesulfame,CSM5MCVN,      595367
+oxymetazoline,CSM5MCVN,         158
+C14:0 LPC,CSM5MCVN,       37553
+C16:1 LPC,CSM5MCVN,      592758
+C16:0 LPC,CSM5MCVN,     8830495
+C18:2 LPC,CSM5MCVN,      571168
+C18:1 LPC,CSM5MCVN,     2422692
+C18:0 LPC,CSM5MCVN,     2676804
+C20:5 LPC,CSM5MCVN,      144231
+C20:3 LPC,CSM5MCVN,     4523326
+C16:1 LPE,CSM5MCVN,      107459
+C16:0 LPE,CSM5MCVN,     3559010
+C18:2 LPE,CSM5MCVN,      440252
+C18:1 LPE,CSM5MCVN,     1051763
+C18:0 LPE,CSM5MCVN,      127622
+C20:0 LPE,CSM5MCVN,     2480286
+C22:0 LPE,CSM5MCVN,        1109
+C30:0 PC,CSM5MCVN,       26063
+C32:1 PC,CSM5MCVN,       40473
+C32:0 PC,CSM5MCVN,      266175
+C34:3 PC,CSM5MCVN,        6799
+C34:2 PC,CSM5MCVN,      623122
+C34:1 PC,CSM5MCVN,     1798538
+C34:0 PC,CSM5MCVN,       13345
+C36:4 PC-A,CSM5MCVN,       33871
+C36:4 PC-B,CSM5MCVN,       40214
+C36:3 PC,CSM5MCVN,      408613
+C36:2 PC,CSM5MCVN,      642996
+C36:1 PC,CSM5MCVN,      222784
+C38:6 PC,CSM5MCVN,       19137
+C38:4 PC,CSM5MCVN,        6476
+C38:3 PC,CSM5MCVN,        7531
+C38:2 PC,CSM5MCVN,        1924
+C34:4 PC plasmalogen,CSM5MCVN,      157331
+C34:2 PC plasmalogen,CSM5MCVN,       30945
+C34:1 PC plasmalogen,CSM5MCVN,      318988
+C36:5 PC plasmalogen,CSM5MCVN,       30234
+C36:4 PC plasmalogen,CSM5MCVN,        9119
+C36:2 PC plasmalogen,CSM5MCVN,       46418
+C36:1 PC plasmalogen,CSM5MCVN,        1421
+C38:4 PC plasmalogen,CSM5MCVN,        5022
+C32:0 PE,CSM5MCVN,       20885
+C34:0 PE,CSM5MCVN,        3432
+sphingosine,CSM5MCVN,     2956848
+palmithoylethanolamide,CSM5MCVN,      579781
+linoleoylethanolamide,CSM5MCVN,      828554
+C2 Ceramide (d18:1),CSM5MCVN,        5351
+C16:0 Ceramide (d18:1),CSM5MCVN,     6693364
+C22:0 Ceramide (d18:1),CSM5MCVN,     1178110
+C24:0 Ceramide (d18:1),CSM5MCVN,     1033477
+C24:1 Ceramide (d18:1),CSM5MCVN,     1413794
+C16:1 SM,CSM5MCVN,       11845
+C16:0 SM,CSM5MCVN,     2521424
+C18:1 SM,CSM5MCVN,       47350
+C18:0 SM,CSM5MCVN,      191665
+C20:0 SM,CSM5MCVN,        6317
+C22:1 SM,CSM5MCVN,        2067
+C22:0 SM,CSM5MCVN,       56461
+C24:1 SM,CSM5MCVN,      321027
+C24:0 SM,CSM5MCVN,      118918
+C14:0 CE,CSM5MCVN,      386025
+C16:1 CE,CSM5MCVN,      587688
+C16:0 CE,CSM5MCVN,     1994741
+C18:3 CE,CSM5MCVN,     4653780
+C18:2 CE,CSM5MCVN,    23864222
+C18:1 CE,CSM5MCVN,    17262632
+C18:0 CE,CSM5MCVN,     1352539
+C20:5 CE,CSM5MCVN,      473101
+C20:4 CE,CSM5MCVN,     3079420
+C20:3 CE,CSM5MCVN,     3927176
+C22:6 CE,CSM5MCVN,     2919194
+C22:5 CE,CSM5MCVN,      621482
+C22:4 CE,CSM5MCVN,      544171
+C16:1 MAG,CSM5MCVN,      524024
+C18:0 MAG,CSM5MCVN,     9231061
+C22:1 MAG,CSM5MCVN,        3455
+C30:0 DAG,CSM5MCVN,      338495
+C32:2 DAG,CSM5MCVN,      410383
+C32:1 DAG,CSM5MCVN,      769943
+C32:0 DAG,CSM5MCVN,      482228
+C34:3 DAG,CSM5MCVN,     1838307
+C34:2 DAG,CSM5MCVN,    14302674
+C34:1 DAG,CSM5MCVN,    21750637
+C34:0 DAG,CSM5MCVN,      580428
+C36:4 DAG,CSM5MCVN,    19474989
+C36:3 DAG,CSM5MCVN,    23179479
+C36:2 DAG,CSM5MCVN,    42699763
+C36:1 DAG,CSM5MCVN,     5176685
+C36:0 DAG,CSM5MCVN,      527086
+C38:5 DAG,CSM5MCVN,      863032
+C42:0 TAG,CSM5MCVN,       98049
+C44:2 TAG,CSM5MCVN,        3332
+C44:1 TAG,CSM5MCVN,       11768
+C44:0 TAG,CSM5MCVN,       18812
+C45:0 TAG,CSM5MCVN,        5137
+C46:3 TAG,CSM5MCVN,       46817
+C46:2 TAG,CSM5MCVN,       20778
+C46:1 TAG,CSM5MCVN,       42553
+C46:0 TAG,CSM5MCVN,       22564
+C48:4 TAG,CSM5MCVN,        2234
+C48:3 TAG,CSM5MCVN,      132835
+C48:2 TAG,CSM5MCVN,      211210
+C48:1 TAG,CSM5MCVN,      172022
+C48:0 TAG,CSM5MCVN,       82188
+C50:5 TAG,CSM5MCVN,       12271
+C50:4 TAG,CSM5MCVN,      315183
+C50:3 TAG,CSM5MCVN,      959370
+C50:2 TAG,CSM5MCVN,     2562984
+C50:1 TAG,CSM5MCVN,     2889871
+C50:0 TAG,CSM5MCVN,       34965
+C51:3 TAG,CSM5MCVN,      120434
+C51:2 TAG,CSM5MCVN,      256163
+C51:1 TAG,CSM5MCVN,       35299
+C51:0 TAG,CSM5MCVN,         664
+C52:7 TAG,CSM5MCVN,        1177
+C52:6 TAG,CSM5MCVN,      180546
+C52:5 TAG,CSM5MCVN,     1219182
+C52:4 TAG,CSM5MCVN,    13627198
+C52:3 TAG,CSM5MCVN,    12209427
+C52:2 TAG,CSM5MCVN,    12164077
+C52:1 TAG,CSM5MCVN,     1370758
+C52:0 TAG,CSM5MCVN,       39697
+C53:3 TAG,CSM5MCVN,      533460
+C54:6 TAG,CSM5MCVN,    12676091
+C54:5 TAG,CSM5MCVN,    16131545
+C54:4 TAG,CSM5MCVN,    20272997
+C54:3 TAG,CSM5MCVN,    30743267
+C54:2 TAG,CSM5MCVN,     4940642
+C54:1 TAG,CSM5MCVN,      479138
+C55:3 TAG,CSM5MCVN,      123471
+C55:2 TAG,CSM5MCVN,        9259
+C56:7 TAG,CSM5MCVN,      875914
+C56:6 TAG,CSM5MCVN,      299388
+C56:4 TAG,CSM5MCVN,     1122249
+C56:3 TAG,CSM5MCVN,     1428168
+C56:2 TAG,CSM5MCVN,     1570617
+C56:1 TAG,CSM5MCVN,       53080
+C58:10 TAG,CSM5MCVN,      333626
+cholesterol,CSM5MCVN,     2880318
+beta-sitosterol,CSM5MCVN,       52558
+piperine,CSM5MCVN,      169180
+NH4_C16:1 CE,CSM5MCVN,      300171
+NH4_C16:0 CE,CSM5MCVN,      425235
+NH4_C18:3 CE,CSM5MCVN,     3148184
+NH4_C18:2 CE,CSM5MCVN,    18170513
+NH4_C18:1 CE,CSM5MCVN,    11220959
+NH4_C18:0 CE,CSM5MCVN,      333602
+NH4_C20:5 CE,CSM5MCVN,      247218
+NH4_C20:4 CE,CSM5MCVN,     1658340
+NH4_C20:3 CE,CSM5MCVN,     2431847
+NH4_C22:6 CE,CSM5MCVN,     1300501
+NH4_C22:5 CE,CSM5MCVN,      374185
+NH4_C22:4 CE,CSM5MCVN,      246229
+NH4_C16:1 MAG,CSM5MCVN,       10392
+NH4_C18:0 MAG,CSM5MCVN,     2143884
+NH4_C32:2 DAG,CSM5MCVN,      222882
+NH4_C32:1 DAG,CSM5MCVN,      362020
+NH4_C34:3 DAG,CSM5MCVN,      762414
+NH4_C34:2 DAG,CSM5MCVN,     7008050
+NH4_C34:1 DAG,CSM5MCVN,    11577392
+NH4_C36:4 DAG,CSM5MCVN,    14920081
+NH4_C36:3 DAG,CSM5MCVN,    24206760
+NH4_C36:2 DAG,CSM5MCVN,    39243792
+NH4_C36:1 DAG,CSM5MCVN,     2250401
+NH4_C36:0 DAG,CSM5MCVN,      119640
+NH4_C38:5 DAG,CSM5MCVN,      439691
+NH4_C38:4 DAG,CSM5MCVN,      154248
+NH4_C42:0 TAG,CSM5MCVN,        2628
+NH4_C44:2 TAG,CSM5MCVN,        3573
+NH4_C44:1 TAG,CSM5MCVN,         708
+NH4_C44:0 TAG,CSM5MCVN,        3864
+NH4_C46:2 TAG,CSM5MCVN,        1922
+NH4_C46:1 TAG,CSM5MCVN,        1883
+NH4_C46:0 TAG,CSM5MCVN,        8342
+NH4_C48:3 TAG,CSM5MCVN,       27676
+NH4_C48:2 TAG,CSM5MCVN,       76643
+NH4_C48:1 TAG,CSM5MCVN,      131252
+NH4_C48:0 TAG,CSM5MCVN,       31733
+NH4_C49:1 TAG,CSM5MCVN,        2112
+NH4_C50:5 TAG,CSM5MCVN,      112394
+NH4_C50:4 TAG,CSM5MCVN,       80209
+NH4_C50:3 TAG,CSM5MCVN,      447334
+NH4_C50:2 TAG,CSM5MCVN,     1895428
+NH4_C50:1 TAG,CSM5MCVN,     2417061
+NH4_C50:0 TAG,CSM5MCVN,        4985
+NH4_C51:3 TAG,CSM5MCVN,       36962
+NH4_C51:2 TAG,CSM5MCVN,      144714
+NH4_C51:1 TAG,CSM5MCVN,       81236
+NH4_C51:0 TAG,CSM5MCVN,      182516
+NH4_C52:6 TAG,CSM5MCVN,     1218390
+NH4_C52:5 TAG,CSM5MCVN,      528244
+NH4_C52:4 TAG,CSM5MCVN,     6052241
+NH4_C52:3 TAG,CSM5MCVN,     8806511
+NH4_C52:2 TAG,CSM5MCVN,    15307711
+NH4_C52:1 TAG,CSM5MCVN,      700608
+NH4_C52:0 TAG,CSM5MCVN,        3936
+NH4_C53:3 TAG,CSM5MCVN,      334845
+NH4_C53:2 TAG,CSM5MCVN,      171019
+NH4_C54:6 TAG,CSM5MCVN,     6441022
+NH4_C54:5 TAG,CSM5MCVN,    10513495
+NH4_C54:4 TAG,CSM5MCVN,    15122340
+NH4_C54:3 TAG,CSM5MCVN,    24954978
+NH4_C54:2 TAG,CSM5MCVN,     2505305
+NH4_C56:6 TAG,CSM5MCVN,      264799
+NH4_C56:4 TAG,CSM5MCVN,      436503
+NH4_C56:3 TAG,CSM5MCVN,      507926
+NH4_C56:2 TAG,CSM5MCVN,      133233
+1-3-7-trimethylurate,CSM5MCVN,      212847
+2-aminoadipate,CSM5MCVN,      806766
+2-aminobutyrate,CSM5MCVN,      581117
+2-hydroxy-3-methylbutyrate,CSM5MCVN,      145801
+2-hydroxy-3-methylpentanoate,CSM5MCVN,       76289
+2-hydroxyglutarate,CSM5MCVN,      233361
+3-hydroxymethylglutarate,CSM5MCVN,       92251
+3-methyladipate/pimelate,CSM5MCVN,       98344
+3-methylglutaconate,CSM5MCVN,        8296
+4-hydroxybenzaldehyde,CSM5MCVN,    13828289
+4-hydroxybenzeneacetonitrile,CSM5MCVN,          38
+4-methylcatechol,CSM5MCVN,       34477
+4-nitrophenol,CSM5MCVN,       43983
+4-pyridoxate,CSM5MCVN,     3391370
+5-acetylamino-6-amino-3-methyluracil,CSM5MCVN,     1598769
+acesulfame,CSM5MCVN,     3209417
+acetylalanine,CSM5MCVN,       93116
+adenine,CSM5MCVN,     1028032
+adipate,CSM5MCVN,      141038
+alanine,CSM5MCVN,      164559
+alpha-glycerophosphate,CSM5MCVN,      167581
+alpha-ketoglutarate,CSM5MCVN,     1016130
+alpha-ketoisovalerate,CSM5MCVN,        4325
+arginine,CSM5MCVN,    18080246
+ascorbate,CSM5MCVN,     2012670
+aspartate,CSM5MCVN,      199160
+azelate,CSM5MCVN,      193360
+butyrate,CSM5MCVN,     2177464
+caproate,CSM5MCVN,       85145
+caprylate,CSM5MCVN,       39495
+cholate,CSM5MCVN,     5054216
+cinnamoylglycine,CSM5MCVN,        1926
+citrate,CSM5MCVN,       37140
+citrulline,CSM5MCVN,    22248457
+corticosterone,CSM5MCVN,        1175
+docosapentaenoate,CSM5MCVN,     9294670
+dTMP,CSM5MCVN,        3657
+eicosapentaenoate,CSM5MCVN,     2865856
+erythronate,CSM5MCVN,      362252
+ethyl glucuronide,CSM5MCVN,      304307
+fructose/glucose/galactose,CSM5MCVN,      957697
+fucose,CSM5MCVN,      412427
+fumarate/maleate,CSM5MCVN,       76802
+gemfibrozil,CSM5MCVN,       93823
+gentisate,CSM5MCVN,      405394
+glutamate,CSM5MCVN,     1261993
+glycerate,CSM5MCVN,       25074
+glycocholate,CSM5MCVN,       60632
+guanine,CSM5MCVN,       33698
+guanosine,CSM5MCVN,       47498
+heptadecanoate,CSM5MCVN,     1030071
+hydrocinnamate,CSM5MCVN,       96554
+hypoxanthine,CSM5MCVN,       81221
+imidazolelactate,CSM5MCVN,       15941
+indole-3-propionate,CSM5MCVN,        6758
+inosine,CSM5MCVN,      760733
+lactate,CSM5MCVN,      642316
+lactose,CSM5MCVN,     1881964
+leucine,CSM5MCVN,    10875473
+linoleoyl ethanolamide,CSM5MCVN,      253984
+lithocholate,CSM5MCVN,    87778714
+malate,CSM5MCVN,      133425
+malonate,CSM5MCVN,      129336
+methionine,CSM5MCVN,      310127
+N6-acetyllysine,CSM5MCVN,     4266991
+N-acetylglutamate,CSM5MCVN,       49036
+nicotinate,CSM5MCVN,      227484
+norepinephrine,CSM5MCVN,       38894
+orotate,CSM5MCVN,       25873
+oxalate,CSM5MCVN,    14390525
+pantothenate,CSM5MCVN,     8901913
+phenylacetate,CSM5MCVN,      900394
+phenylacetylglutamine,CSM5MCVN,     3285658
+phenylalanine,CSM5MCVN,    10264479
+proline,CSM5MCVN,      178054
+propionate,CSM5MCVN,      415219
+pseudouridine,CSM5MCVN,       62689
+pyrocatechol,CSM5MCVN,      263578
+riboflavin,CSM5MCVN,       48404
+ribothymidine,CSM5MCVN,       10875
+saccharin,CSM5MCVN,       22318
+salicylate,CSM5MCVN,       98044
+sebacate,CSM5MCVN,       53443
+serine,CSM5MCVN,       37593
+shikimate,CSM5MCVN,      241485
+sorbitol,CSM5MCVN,     2237067
+suberate,CSM5MCVN,     7040409
+succinate,CSM5MCVN,     1041968
+tartarate,CSM5MCVN,      607861
+taurine,CSM5MCVN,     6169842
+tetrahydro-1-methyl-beta-carboline-3-carboxylate,CSM5MCVN,      112122
+threonine,CSM5MCVN,      161241
+thymine,CSM5MCVN,      246347
+tryptophan,CSM5MCVN,      232355
+tyrosine,CSM5MCVN,    11422369
+uracil,CSM5MCVN,      701144
+urate,CSM5MCVN,    11520691
+uridine,CSM5MCVN,     2571367
+valerate/isovalerate,CSM5MCVN,     4001019
+xanthine,CSM5MCVN,     1005743
+xanthurenate,CSM5MCVN,    10013072
+xylose,CSM5MCVN,      326726
+trimethylbenzene,CSM5MCVN,      799438
+bilirubin,CSM5MCVN,    11583421
+cytidine,CSM5MCVN,    64618544
+hypoxanthine,CSM5MCVN,     5737417
+inosine,CSM5MCVN,     1055860
+pantothenate,CSM5MCVN,    71964264
+glycine,CSM5MCVN,        1261
+alanine,CSM5MCVN,      101210
+serine,CSM5MCVN,        3394
+methionine,CSM5MCVN,      385372
+aspartate,CSM5MCVN,      611995
+glutamate,CSM5MCVN,      106328
+glutamine,CSM5MCVN,      131661
+histidine,CSM5MCVN,       89687
+arginine,CSM5MCVN,     3188884
+lysine,CSM5MCVN,      403218
+valine,CSM5MCVN,  1597290134
+leucine,CSM5MCVN,   497565087
+isoleucine,CSM5MCVN,   279024276
+phenylalanine,CSM5MCVN,  2242836138
+tyrosine,CSM5MCVN,  1499691078
+tryptophan,CSM5MCVN,    57364251
+proline,CSM5MCVN,     1058116
+hydroxyproline,CSM5MCVN,        5762
+ornithine,CSM5MCVN,        7643
+citrulline,CSM5MCVN,      267337
+taurine,CSM5MCVN,    21127053
+5-hydroxytryptophan,CSM5MCVN,       69363
+dimethylglycine,CSM5MCVN,         909
+ADMA/SDMA,CSM5MCVN,  1067667365
+NMMA,CSM5MCVN,      553260
+aminoisobutyric acid/GABA,CSM5MCVN,    59871273
+kynurenic acid,CSM5MCVN,      445052
+1-methylhistamine,CSM5MCVN,       34382
+histamine,CSM5MCVN,      398356
+N-carbamoyl-beta-alanine,CSM5MCVN,      562859
+niacinamide,CSM5MCVN,     6702816
+betaine,CSM5MCVN,      392581
+choline,CSM5MCVN,     2936839
+alpha-glycerophosphocholine,CSM5MCVN,       85233
+acetylcholine,CSM5MCVN,     5991259
+spermidine,CSM5MCVN,  1548758703
+creatine,CSM5MCVN,    40435118
+creatinine,CSM5MCVN,    67863070
+trimethylamine-N-oxide,CSM5MCVN,        6178
+adenosine,CSM5MCVN,    15337044
+cytosine,CSM5MCVN,      529632
+2-deoxyadenosine,CSM5MCVN,   475783651
+2-deoxycytidine,CSM5MCVN,    80923265
+cotinine,CSM5MCVN,         506
+pipecolic acid,CSM5MCVN,      819289
+5-aminolevulinic acid,CSM5MCVN,     1697911
+1-methylnicotinamide,CSM5MCVN,      515363
+butyrobetaine,CSM5MCVN,    96790454
+putrescine,CSM5MCVN,     2177926
+methionine sulfoxide,CSM5MCVN,       41769
+beta-alanine,CSM5MCVN,   346046234
+anserine,CSM5MCVN,      183525
+carnitine,CSM5MCVN,     3247132
+C2 carnitine,CSM5MCVN,       20902
+C3 carnitine,CSM5MCVN,        1269
+C14 carnitine,CSM5MCVN,       67412
+C16 carnitine,CSM5MCVN,     2671703
+C18 carnitine,CSM5MCVN,     1946247
+C18:1 carnitine,CSM5MCVN,     4543247
+C18:1-OH carnitine,CSM5MCVN,      862857
+C18:2 carnitine,CSM5MCVN,      830136
+C20 carnitine,CSM5MCVN,      138267
+1-methylguanine,CSM5MCVN,       19467
+1-methylguanosine,CSM5MCVN,        2043
+21-deoxycortisol,CSM5MCVN,         556
+2-aminoheptanoic acid,CSM5MCVN,        1463
+2'-O-methyladenosine,CSM5MCVN,       51616
+3-methylhistidine,CSM5MCVN,      295145
+3-methylxanthine,CSM5MCVN,     3643709
+3'-O-methyladenosine,CSM5MCVN,     4275555
+4-aminophenol,CSM5MCVN,        1136
+4-guanidinobutanoic acid,CSM5MCVN,     1120194
+4-hydroxy-3-methylacetophenone,CSM5MCVN,       27073
+5-acetylamino-6-amino-3-methyluracil,CSM5MCVN,      309077
+7-methylguanine,CSM5MCVN,     3975390
+7-methylxanthine,CSM5MCVN,   492048568
+8-hydroxy-deoxyguanosine,CSM5MCVN,      483610
+acetaminophen,CSM5MCVN,      795111
+agmatine,CSM5MCVN,    18690712
+alloisoleucine,CSM5MCVN,      116036
+atenolol,CSM5MCVN,     3280788
+biliverdin,CSM5MCVN,     1737177
+cadaverine,CSM5MCVN,   172384264
+caffeine,CSM5MCVN,     4560921
+alanylalanine,CSM5MCVN,    25724942
+diacetylspermine,CSM5MCVN,    13589455
+ectoine,CSM5MCVN,     2780222
+gabapentin,CSM5MCVN,       22193
+histidinol,CSM5MCVN,      231842
+homoarginine,CSM5MCVN,    62444326
+homocitrulline,CSM5MCVN,       21062
+hydroxycotinine,CSM5MCVN,        5523
+imidazole propionate,CSM5MCVN,    32319141
+imidazoleacetic acid,CSM5MCVN,     6125994
+linoleoyl ethanolamide,CSM5MCVN,      789865
+metformin,CSM5MCVN,       30278
+methylimidazole acetic acid,CSM5MCVN,   538956297
+N1-acetylspermidine,CSM5MCVN,    12312997
+N1-acetylspermine,CSM5MCVN,   121473814
+N1-methyl-2-pyridone-5-carboxamide,CSM5MCVN,     1190057
+N6-acetyllysine,CSM5MCVN,    14147151
+N-acetyalanine,CSM5MCVN,       15312
+N-acetylglutamine,CSM5MCVN,     8138847
+N-acetylhistamine,CSM5MCVN,   471192409
+N-acetylhistidine,CSM5MCVN,       14194
+N-acetylornithine,CSM5MCVN,       36060
+N-acetylputrescine,CSM5MCVN,    57290256
+N-alpha-acetylarginine,CSM5MCVN,      461978
+nicotinuric acid,CSM5MCVN,    24253106
+N-methylproline,CSM5MCVN,       52817
+phytosphingosine,CSM5MCVN,   377379460
+piperine,CSM5MCVN,     2082775
+proline betaine,CSM5MCVN,     1259318
+pterin,CSM5MCVN,    17616288
+pyridoxine,CSM5MCVN,    37643629
+S-methylcysteine-S-oxide,CSM5MCVN,       13930
+sphinganine,CSM5MCVN,    29098073
+threosphingosine,CSM5MCVN,    58409618
+trigonelline,CSM5MCVN,     9090965
+urobilin,CSM5MCVN,       74458
+C14:0 LPC,CSM5MCVN,       38270
+C16:1 LPC,CSM5MCVN,      189272
+C16:0 LPC,CSM5MCVN,   291295563
+C18:3 LPC,CSM5MCVN,     2841134
+C18:2 LPC,CSM5MCVN,    38336204
+C18:1 LPC,CSM5MCVN,     5517115
+C18:0 LPC,CSM5MCVN,     3388699
+C16:1 LPC plasmalogen,CSM5MCVN,      338640
+C18:1 LPC plasmalogen,CSM5MCVN,      171529
+C16:0 LPE,CSM5MCVN,    24891554
+C18:0 LPE-A,CSM5MCVN,    17175054
+C18:0 LPE-B,CSM5MCVN,     2167662
+C22:6 LPE,CSM5MCVN,    10114578
+C36:2 PC,CSM5MCVN,      213022
+sphingosine-isomer1,CSM5MCVN,    36837589
+sphingosine-isomer2,CSM5MCVN,     3794683
+sphingosine-isomer3,CSM5MCVN,  2692499994
+C14:0 SM,CSM5MCVN,        9176
+C16:0 SM,CSM5MCVN,     1132840

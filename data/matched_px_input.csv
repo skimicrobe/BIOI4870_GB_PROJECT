@@ -1,0 +1,80 @@
+protein,sample_id,ab_value
+UNGROUPED,CSM5MCVN,2949
+ Malate dehydrogenase,CSM5MCVN,45
+ NADH peroxidase,CSM5MCVN,1
+ Peroxiredoxin,CSM5MCVN,1
+ Hydrogenase (acceptor),CSM5MCVN,1
+ Superoxide dismutase,CSM5MCVN,11
+ Bacterial non-heme ferritin,CSM5MCVN,12
+ (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin),CSM5MCVN,1
+ Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),CSM5MCVN,10
+ N-acetyl-gamma-glutamyl-phosphate reductase,CSM5MCVN,2
+ Glycine reductase,CSM5MCVN,1
+ Dihydroorotate dehydrogenase (NAD(+)),CSM5MCVN,1
+ Diaminopimelate dehydrogenase,CSM5MCVN,15
+ Glutamate dehydrogenase,CSM5MCVN,8
+ Glutamate dehydrogenase (NAD(P)(+)),CSM5MCVN,3
+ Glycine dehydrogenase (aminomethyl-transferring),CSM5MCVN,6
+ NAD(P)H dehydrogenase (quinone),CSM5MCVN,2
+ubiquinone reductase (Na(+)-transporting),CSM5MCVN,1
+ Nitrite reductase (cytochrome; ammonia-forming),CSM5MCVN,1
+ Glycine hydroxymethyltransferase,CSM5MCVN,1
+ Aminomethyltransferase,CSM5MCVN,1
+ Transketolase,CSM5MCVN,1
+ Transaldolase,CSM5MCVN,2
+ Beta-ketoacyl-[acyl-carrier-protein] synthase II,CSM5MCVN,5
+ Glycine C-acetyltransferase,CSM5MCVN,4
+ Acetyl-CoA C-acetyltransferase,CSM5MCVN,1
+ 4-O-beta-D-mannosyl-D-glucose phosphorylase,CSM5MCVN,1
+ Purine-nucleoside phosphorylase,CSM5MCVN,1
+ Methionine adenosyltransferase,CSM5MCVN,5
+ 4-aminobutyrate--2-oxoglutarate transaminase,CSM5MCVN,1
+ (S)-3-amino-2-methylpropionate transaminase,CSM5MCVN,1
+ Phosphoserine transaminase,CSM5MCVN,48
+ Adenosylmethionine--8-amino-7-oxononanoate transaminase,CSM5MCVN,1
+ Glycerol kinase,CSM5MCVN,2
+ Acetate kinase,CSM5MCVN,2
+ Glucose-1-phosphate thymidylyltransferase,CSM5MCVN,2
+ DNA-directed RNA polymerase,CSM5MCVN,2
+ DNA-directed DNA polymerase,CSM5MCVN,1
+ Pectinesterase,CSM5MCVN,1
+ Beta-galactosidase,CSM5MCVN,4
+ Alpha-L-fucosidase,CSM5MCVN,1
+ Non-reducing end alpha-L-arabinofuranosidase,CSM5MCVN,2
+ Leucyl aminopeptidase,CSM5MCVN,1
+ Bacterial leucyl aminopeptidase,CSM5MCVN,1
+ Endopeptidase Clp,CSM5MCVN,4
+ N-acetylglucosamine-6-phosphate deacetylase,CSM5MCVN,1
+ N-carbamoyl-L-amino-acid hydrolase,CSM5MCVN,1
+ 2-iminobutanoate/2-iminopropanoate deaminase,CSM5MCVN,1
+ DNA helicase,CSM5MCVN,1
+ Aspartate 1-decarboxylase,CSM5MCVN,1
+ Glutamate decarboxylase,CSM5MCVN,1
+ Ornithine decarboxylase,CSM5MCVN,3
+ Orotidine-5'-phosphate decarboxylase,CSM5MCVN,5
+ Phosphoenolpyruvate carboxykinase (ATP),CSM5MCVN,25
+ Deoxyribose-phosphate aldolase,CSM5MCVN,4
+ Isocitrate lyase,CSM5MCVN,2
+ Phosphopyruvate hydratase,CSM5MCVN,1
+ Porphobilinogen synthase,CSM5MCVN,2
+ Urocanate hydratase,CSM5MCVN,5
+ 3-hydroxyacyl-[acyl-carrier-protein] dehydratase,CSM5MCVN,1
+ Mannonate dehydratase,CSM5MCVN,1
+ Chorismate synthase,CSM5MCVN,1
+ Histidine ammonia-lyase,CSM5MCVN,1
+ S-ribosylhomocysteine lyase,CSM5MCVN,3
+ Aldose 1-epimerase,CSM5MCVN,19
+ Peptidylprolyl isomerase,CSM5MCVN,5
+ Triose-phosphate isomerase,CSM5MCVN,47
+ Glucuronate isomerase,CSM5MCVN,34
+ L-rhamnose isomerase,CSM5MCVN,24
+ 5-dehydro-4-deoxy-D-glucuronate isomerase,CSM5MCVN,15
+ L-fucose isomerase,CSM5MCVN,26
+ L-arabinose isomerase,CSM5MCVN,22
+ Xylose isomerase,CSM5MCVN,38
+ Ribose-5-phosphate isomerase,CSM5MCVN,1
+ Glucose-6-phosphate isomerase,CSM5MCVN,1
+ Phenylalanine--tRNA ligase,CSM5MCVN,1
+ Histidine--tRNA ligase,CSM5MCVN,1
+ Adenylosuccinate synthase,CSM5MCVN,1
+ Phosphoribosylformylglycinamidine synthase,CSM5MCVN,3
