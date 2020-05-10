@@ -1,0 +1,117 @@
+######################################################################
+# Commands for building graph databae in Neo4J                       #
+# Author:  Suyeon Kim                                                #
+# Current version: April 26, 2020                                    #
+######################################################################
+
+###############################
+# Data 1 : filt_metadata.csv  #
+# Node: Sample                #
+###############################
+
+###----- NODE: Sample -------###
+LOAD CSV WITH HEADERS FROM "file:///filt_metadata.csv" As row 
+MERGE (s:Sample {sampleBarcode: row.External_ID, Diagnosis_info: row.Diagnosis_info, Gender: row.Gender, Antibiotics: row.Antibiotics}) RETURN s
+
+###########################
+# Data 2 : mgx_intput.csv #
+# Node: OTU               #
+# Edge: Sample ---> OTU   #
+###########################
+
+###----- NODE: OTU ------###
+USING PERIODIC COMMIT 5000
+LOAD CSV WITH HEADERS FROM "file:///mgx_intput.csv" As row
+MERGE (otu: OTU {taxonName:row.otu})
+RETURN otu
+
+###----- Relationship: (Sample ----> OTU) -----###
+USING PERIODIC COMMIT 5000
+LOAD CSV WITH HEADERS FROM "file:///mgx_intput.csv" As row
+MATCH (s: Sample{sampleBarcode: row.sample_id})
+MATCH (b: OTU {taxonName: row.otu})
+CREATE (s)-[:HAS_BACTERIA {ab_value: row.ab_value}]->(b)
+RETURN s,b
+
+
+#######################################################
+# Data 2 : mtx_gene_input.csv,                        #
+# Node: GENE                                          #
+# Edge: OTU ---> GENE, Sample ---> GENE               #
+#######################################################
+
+###----- NODE: GENE -----###
+USING PERIODIC COMMIT 5000
+LOAD CSV WITH HEADERS FROM "file:///mtx_gene_input.csv" As row
+MERGE( g: GENE {geneName: row.gene})
+RETURN g
+
+###-----Relationship: for OTU ---> GENE
+USING PERIODIC COMMIT 10000
+LOAD CSV WITH HEADERS FROM "file:///mtx_gene_input.csv" As row 
+MATCH (b: OTU {taxonName: row.bacteria})
+MATCH (g: GENE {geneName: row.gene})
+MATCH (s: SampleID {sampleBarcode: row.sample_id})
+MERGE (b)-[:HAS_GENE]->(g)
+MERGE (s)-[:HAS_EXPRESSION_AT {ab_value: row.ab_value}]->(g)
+RETURN b,g,s
+
+###----- Relationship: Sample ----> GENE 
+USING PERIODIC COMMIT 10000
+LOAD CSV WITH HEADERS FROM "file:///mtx_gene_input.csv" As row 
+MATCH (s: Sample {sampleBarcode: row.sample_id})
+MATCH (g: GENE {geneName: row.gene})
+MERGE (s)-[:HAS_EXPRESSION {ab_value: row.ab_value}]->(g)
+RETURN s,g 
+
+
+#######################################################
+# Data 3 : mtx_pathway_input.csv                      #
+# Node: PATHWAY                                       #
+# Edge: Sample ---> PATHWAY, OTU ---> PATHWAY         #
+#######################################################
+
+###----- NODE: Pathway | Relationship: Sample ---> Pathway-----###
+USING PERIODIC COMMIT 5000
+LOAD CSV WITH HEADERS FROM "file:///mtx_pathway_input.csv" As row
+MERGE (p: PATHWAY {pathName: row.pathway})
+MERGE (s: Sample {sampleBarcode: row.sample_id})
+MERGE (s)-[:HAS_PATHWAY_ABUNDANCE {ab_value:row.ab_value}]->(p)
+RETURN p
+
+###-----Relationship: for OTU ---> PATHWAY
+USING PERIODIC COMMIT 10000
+LOAD CSV WITH HEADERS FROM "file:///mtx_pathway_input.csv" As row 
+MATCH (b: OTU {taxonName: row.bacteria})
+MATCH (p: PATHWAY {pathName: row.pathway})
+MERGE (b)-[:HAS_PATHWAY]->(p)
+RETURN b,p
+
+#######################################################
+# Data 3 : matched_px_input.csv                       #
+# Node: PROTEIN                                       #
+# Edge: Sample ---> PROTEIN                           #
+#######################################################
+
+###----- NODE: Protein | Relationship: Sample ---> Protein -----###
+USING PERIODIC COMMIT 10000
+LOAD CSV WITH HEADERS FROM "file:///matched_px_input.csv" As row
+MERGE (p: PROTEIN {proteinName: row.protein})
+MERGE (s: Sample {sampleBarcode: row.sample_id})
+MERGE (s)-[:HAS_PROTEIN {ab_value:row.ab_value}]->(p)
+RETURN p
+
+
+#######################################################
+# Data 4 : matched_mb_input.csv                       #
+# Node: METABOLITE                                    #
+# Edge: Sample ---> METABOLITE                        #
+#######################################################
+
+###------ NODE: Metabolite | Relationship: Sample ---> Metabolite -----###
+USING PERIODIC COMMIT 10000
+LOAD CSV WITH HEADERS FROM "file:///matched_mb_input.csv" As row
+MERGE (m: METABOLITE {mbName: row.metabolites})
+MERGE (s: Sample {sampleBarcode: row.sample_id})
+MERGE (s)-[:HAS_METABOLITE {ab_value:row.ab_value}]->(m)
+RETURN m
