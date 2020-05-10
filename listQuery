@@ -1,0 +1,53 @@
+######################################################################
+# List of Queries for data analysis                                  #
+# Author:  Suyeon Kim                                                #
+# Current version: May 03, 2020                                      #
+######################################################################
+
+#############################
+# Table 4 in the manuscript #
+#############################
+MATCH (n:Sample) RETURN count(n)
+MATCH (n:GENE) RETURN count(n)
+MATCH (n:OTU) RETURN count(n)
+MATCH (n:PATHWAY) RETURN count(n)
+MATCH (n:PROTEIN) RETURN count(n)
+MATCH (n:METABOLITE) RETURN count(n)
+
+MATCH p=()-[r:HAS_BACTERIA]->() RETURN count(p)
+MATCH p=()-[r:HAS_GENE]->() RETURN count(p)
+MATCH p=()-[r:HAS_EXPRESSION->() RETURN count(p)
+MATCH p=()-[r:HAS_PATHWAY]->() RETURN count(p)
+MATCH p=()-[r:HAS_PATHWAY_ABUNDANCE]->() RETURN count(p)
+MATCH p=()-[r:HAS_PROTEIN]->() RETURN count(p)
+MATCH p=()-[r:HAS_METABOLITE]->() RETURN count(p)
+
+#############################
+# Table 4 in the manuscript #
+#############################
+Match(s:Sample) Where s.Diagnosis_info="CD" AND s.Antibiotics ="Yes"  RETURN count(s)
+Match(s:Sample) Where s.Diagnosis_info="CD" AND s.Antibiotics ="No"  RETURN count(s)
+Match(s:Sample) Where s.Diagnosis_info="UC" AND s.Antibiotics ="Yes"  RETURN count(s)
+Match(s:Sample) Where s.Diagnosis_info="UC" AND s.Antibiotics ="No"  RETURN count(s)
+Match(s:Sample) Where s.Diagnosis_info="nonIBD" AND s.Antibiotics ="Yes"  RETURN count(s)
+Match(s:Sample) Where s.Diagnosis_info="nonIBD" AND s.Antibiotics ="No"  RETURN count(s)
+
+##############################
+# Figure 3 in the manuscript #
+##############################
+Match ps=(s:Sample {sampleBarcode:"CSM5MCVN"}) -[hs:HAS_BACTERIA]-> (b:OTU) -[hg:HAS_GENE]-> (g:GENE) RETURN s.Gender, s.Antibiotics, b.taxonName, g.geneName, toFloat(hs.ab_value) as av order by av desc limit 10
+
+##############################
+# Figure 4 in the manuscript #
+##############################
+Match ps=(s:Sample {sampleBarcode:"CSM5MCVN"}) -[hs:HAS_PROTEIN]-> (p:PROTEIN)   RETURN s.Gender, p.proteinName,  toFloat(hs.ab_value) as av order by av desc limit 10
+
+##############################
+# Figure 5 in the manuscript #
+##############################
+MATCH p=()-[r:HAS_METABOLITE]->() RETURN p LIMIT 25
+Match ps=(s:Sample {sampleBarcode:"CSM5MCVN"}) -[hs:HAS_METABOLITE]-> (m:METABOLITE)  RETURN m.mbName ,count(hs.ab_value) as ec order by ec desc
+
+
+
+
